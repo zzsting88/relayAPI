@@ -14,7 +14,7 @@
 
 为了解决下面的问题, 我对使用过的中转站做一个评价
 
-## OpenRouter.ai
+## 一.OpenRouter.ai
 OpenRouter在所有的网站里, 体验是最好的. 
 一个API可以使用多个模型,  最新的GPT API, Anthropic API, Gemini , 国内的DeepSeek, Kimi, MiniMax都可以第一时间使用.
 
@@ -23,14 +23,25 @@ OpenRouter在所有的网站里, 体验是最好的.
 缺点是价格比较贵, 很多情况下比原厂价格还要贵5%.  另外, 虽然OpenRouter承诺不存储请求数据, 但是多一手毕竟是多一份风险.
 
 
-
-## aigocode.com
+## 二. [aigocode.com](https://aigocode.com/invite/ZJS7W25Q)
 aigocode算是一个口碑还不错的APIKEY网站, 目前没有发现用低价模型代替高级模型的情况. 我自己用的这段时间稳定性一般.
 消耗量是按照周走的, 目前最低的套餐是4周399人民币, 也就是100人民币每周.  对应的额度是110美元每周.
 
-现在使用codex比较划算, 只要0.6块对应1美元的额度. 
+现在使用codex很划算, 是官网价格的0.8折.
 
 缺点是, 在中转站, 399一个月和899一个月, 算是不便宜的. 稳定性偶尔会有波动.
+
+## 三. [OhMyGPT](https://x.dogenet.win/i/034RZ3DS)
+OhMyGPT顾名思义之前是一个做gpt起家的中转站, 现在市面上主流的模型, claude, gemini, gpt, minimax这些都能支持. 
+他们的优点是很多区域都有CDN,网络延时可以保证.
+
+价格方面, 和官网价格基本一样(贵). 如果对稳定性有很高要求的朋友,可以看看这家.
+
+## 四. [aicodemirror](https://www.aicodemirror.com/register?invitecode=7C06QL)
+aicodemirror 是一个老牌的中转站, 用过的都表示稳定性还不错.
+目前只支持claude, gpt, gemini 三种api. 
+价格方面,claude是官方渠道是3.8折, 如果是反代出来的接口目前是1.9折. codex和gemini很便宜, 分别是0.6折和1折.
+
 
 ## codesome.ai
 codesome的站长是一个技术男,联系他微信可以给你10美元的试用额度. 自己试用过后,没出现过稳定性问题. 站长微信回话时间大概是1个小时左右
@@ -38,10 +49,3 @@ codesome的站长是一个技术男,联系他微信可以给你10美元的试用
 可以使用cc, 价格还行, 稳定性差点, 也可以使用codex, 稳定性较高.
 
 这个站相对来说比较新, 长期稳定性还等待观察.
-
-## [OhMyGPT](https://x.dogenet.win/i/034RZ3DS){:target="_blank"} 
-OhMyGPT顾名思义之前是一个做gpt起家的中转站, 现在市面上主流的模型, claude, gemini, gpt, minimax这些都能支持. 
-他们的优点是很多区域都有CDN,网络延时可以保证.
-
-价格方面, 和官网价格基本一样(贵). 如果对稳定性有很高要求的朋友,可以看看这家.
-
