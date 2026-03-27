@@ -70,22 +70,6 @@ Gemini系列的接口也很便宜, 大概是官网价格的1折.
 
 文档非常清晰, 接口响应速度比较快.
 
-###  [AI派](https://api.aipaibox.com/register?aff=Givs)
-这也是一个新的网站, 2026年2月底3月初开始的
-
-只支持Claude, Gemini, GPT.  刚开始支持NanoBanan2, 4k文生图
-
-Claude方面, 好玩的是只支持Sonnet4.6和Opus4.6, 其实也是, 与其用4.0那些接口, 还不如用国产的呢.
-价格方面, Sonnet4.6 最便宜是"自营"的, 人民币 ¥0.8/4 一百万Token, Opus4.6的是人民币 ¥1.4/7 一百万Token.
-还有反重力反代的, 价格比"自营"的贵10%左右.
-我自己试了下, 质量还不错.
-
-GPT5.4刚上, 价格是人民币 ¥0.5/3 一百万Token.
-
-Gemini 3.1 pro价格是0.8/4.8 一百万Token.
-
-新用户登录送0.2的额度, 可以去试试. 最低充值0.2人民币, 先试试效果.
-
 ### [Chintao AI](https://chintao.cn/register?aff=RF8V)
 很新的一个站点. 2026年3月份做的. 
 但是我自己试了下, 接口质量很好, 即使是逆向kiro或者aws的接口, 质量都很稳定很不错. 我自己试下来, 接口都没有掺水.
@@ -122,6 +106,22 @@ GPT5.4是人民币¥1/6 一百万token.
 如果要充值, 最低充值100人民币, 不方便用户进行尝试.
 
 2025-3-22更新: 最近封号很多, 已经下掉了MAX号池分组, 只留下了反代的分组.
+
+###  [AI派](https://api.aipaibox.com/register?aff=Givs)
+这也是一个新的网站, 2026年2月底3月初开始的
+
+只支持Claude, Gemini, GPT.  刚开始支持NanoBanan2, 4k文生图
+
+Claude方面, 好玩的是只支持Sonnet4.6和Opus4.6, 其实也是, 与其用4.0那些接口, 还不如用国产的呢.
+价格方面, Sonnet4.6 最便宜是"自营"的, 人民币 ¥0.8/4 一百万Token, Opus4.6的是人民币 ¥1.4/7 一百万Token.
+还有反重力反代的, 价格比"自营"的贵10%左右.
+我试了下, 质量还不错.
+
+GPT5.4刚上, 价格是人民币 ¥0.5/3 一百万Token.
+
+Gemini 3.1 pro价格是0.8/4.8 一百万Token.
+
+新用户登录送0.2的额度, 可以去试试. 最低充值0.2人民币, 先试试效果.
 
 ### [DawCode](https://dawclaudecode.com/register?aff=nbv1)
 2026年新开的一个站点, 提供Claude, GPT,Gemini三种类型的API.
