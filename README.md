@@ -106,7 +106,7 @@ MAX 的Sonnet4.6 是人民币¥12/60 一百万Token, Opus4.6 是人民币20/100 
 
 整个站的风格我很喜欢, 不是New API的这种风格.
 
-支持 GPT,Claude,Gemini,DeepSeek,Doubao,Qwen 这些模型.
+支持 GPT,Claude,Gemini,DeepSeek,Doubao,Qwen ,Grok 这些模型.
 
 不同级别会员价格不一样,充一点钱就能Vip1,能八折.
 
@@ -114,8 +114,11 @@ Sonnet4.6 的价格是人民币 16.8/84 一百万 Token, Opus4.6 价格是人民
 GPT5.4 价格是人民币 14/84 一百万 Token.
 
 价格是不便宜. 我试了下接口, 接口质量是相当好, 完全没掺水, 速度也快.
+网站上提供一个免费的接口,譬如 GPT4o这种.
+支持开发票.
 
-适合企业客户, 支持开发票.
+总体来说,这个适合企业客户, 质量好, 价格也在这里摆着.
+
 btw:这个站点的域名老容易打错.
 
 ### [DawCode](https://dawclaudecode.com/register?aff=nbv1)
