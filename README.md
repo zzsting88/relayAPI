@@ -136,10 +136,7 @@ btw:这个站点的域名老容易打错.
 
 优点是新用户注册送4块钱的额度, 每天可以签到送一些额度. 很适合进行尝试, 感觉不错再充钱
 
-
-
-
-### [Ekan8](https://sparkcode.top/register?aff=EYOo)
+### [Ekan8](https://api.ekan8.com/register?aff=fLYm)
 支持Gemini和Claude
 
 Claude 只支持Opus4.6, 可以按次也可以按量.
