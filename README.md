@@ -109,7 +109,7 @@ btw:这个站点的域名老容易打错.
 2026年新开的一个站点, 提供Claude, GPT,Gemini三种类型的API.
 
 ~价格也不贵, 逆向出来Opus4.6 价格是人民币¥2(进)10(出)/一百万Token.~
-2026-3-25 更新: 现在价格不便宜了, Opus4.6 是人民币¥7.5(进)37.5(出)/一百万Token.(估计是因为最近风控严)
+2026-4-13 更新: 现在价格不便宜了, 比较好用的是cc-stu分组 Opus4.6 是人民币¥7.5(进)37.5(出)/一百万Token, Sonnet4.6是人民币¥4.5(进)22.5(出)/一百万Token
 
 目前不支持GPT5.4, GPT5.3-codex的价格是¥1(进)6(出)/一百万Token.
 
@@ -120,7 +120,6 @@ btw:这个站点的域名老容易打错.
 我试了下MAX和给Claude Code的接口, 质量还挺好. 
 
 优点是新用户注册送4块钱的额度, 每天可以签到送一些额度. 很适合进行尝试, 感觉不错再充钱
-
 
 
 ### [米醋AI](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fwww.openclaudecode.cn%2Fregister%3Faff%3DrBFh&name=%E7%B1%B3%E9%86%8BAI&source=git)
@@ -137,18 +136,6 @@ Sonnet4.6的价格是人民币¥3.6(进)18(出)/一百万Token
 GPT5.4的价格是人民币¥0.87(进)5.3(出)/一百万Token
 
 新用户没有免费额度, 可以先冲一块钱试试.
-
-###  [鸡哥API](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fapi.yousebaby.com%2Fregister%3Faff%3D0cJg&name=%E9%B8%A1%E5%93%A5API&source=git)
-这个网站在玩酒馆的朋友比较常见.
-
-支持Claude, Gemini, Grok,DeepSeek, Minimax(居然不支持GPT)
-
-Opus4.6 只能按次, 每次0.1人民币.
-Sonnet4.6 只能按次, 每次0.04人民币.  接口质量也挺好的, 我试起来是没有掺水的.
-
-Gemini3.1 也只能按次, 每次0.05人民币.
-
-这个网站还不错, 收费模式简单, 接口质量还不错.
 
 
 ### [发现AI](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fwww.findcg.com%2Fregister%3Fref%3DR98526288a85c&name=%E5%8F%91%E7%8E%B0AI&source=git)
@@ -404,6 +391,18 @@ GPT很便宜,  GPT5.4 是¥0.13(进)0.75(出)/一百万Token.
 美中不足的是没有新用户的使用. 最少要充值10块钱进行试用.
 
 有一个qq群, 不太活跃.
+
+###  [鸡哥API](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fapi.yousebaby.com%2Fregister%3Faff%3D0cJg&name=%E9%B8%A1%E5%93%A5API&source=git)
+这个网站在玩酒馆的朋友比较常见.
+
+支持Claude, Gemini, Grok,DeepSeek, Minimax(居然不支持GPT)
+
+Opus4.6 只能按次, 每次0.1人民币.
+Sonnet4.6 只能按次, 每次0.04人民币.  接口质量也挺好的, 我试起来是没有掺水的.
+
+Gemini3.1 也只能按次, 每次0.05人民币.
+
+这个网站还不错, 收费模式简单, 接口质量还不错.
 
 ### [ZeroCode](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fzerocode.sbs%2Fregister%3Faff%3DSc3E&name=ZeroCode&source=git)
 ZeroCode 是2026年年初开的一个站. 支持Claude, Gemini, GPT.
