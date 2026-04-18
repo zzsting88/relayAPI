@@ -103,7 +103,7 @@ GPT5.4 价格是人民币 14/84 一百万 Token.
 Sonnet4.6的价格是人民币 10.5/63 一百万Token.(虽然还是不便宜)
 
 每个用户每天可以免费用一些反代出来的sonnet-4.6和gpt5.3.   
-轻度用户可以去白嫖一点.[页面在这里](https://poixe.com/products/free?i=sgurn9)
+轻度用户可以去白嫖, sonnet4-6每天可以白嫖50次.[页面在这里](https://poixe.com/pricing?i=sgurn9), 后面有free就是可以免费用几次的. 
 
 btw:这个站点的域名老容易打错.
 
