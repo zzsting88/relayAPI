@@ -590,16 +590,6 @@ GPT5.4价格很贵, 人民币¥1.37(进)8.25(出)/一百万Token.
 
 新用户送0.5. 不支持月卡.
 
-### [Duomi](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fduomi.uk%2Fhome&name=Duomi&source=git)
-是一个比较新的站点, 可能是2026年3月刚做的.
-
-目前问题是文档比较乱, 系统不稳定, 接口响应慢, 经常没法使用.
-价格方面也不便宜.
-
-可以考虑等稳定一点再使用
-
-好像已经倒闭/换域名了
-
 ### [接口AI](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fjiekou.ai%2F&name=%E6%8E%A5%E5%8F%A3AI&source=git)
 价格基本和官方差不多,甚至有一些接口比官方贵很多.
 优点是, 目前没有大规模Token 掺水的严重投诉，属于比较正经的收税方。支持企业开发票.
