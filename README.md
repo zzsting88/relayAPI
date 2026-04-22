@@ -5,7 +5,8 @@
 
 不想看下面的长文, 就看这段话.
 
-对于愿意折腾的人, OpenAI最近风控松了点, 所以现在最便宜的方案, 就是去买一些 GPT plus的号, 一个月几块钱. 多买几个号,  搭配cliproxyAPI, 一个月就足够用了.
+~对于愿意折腾的人, OpenAI最近风控松了点, 所以现在最便宜的方案, 就是去买一些 GPT plus的号, 一个月几块钱. 多买几个号,  搭配cliproxyAPI, 一个月就足够用了.~
+废了. 看这里 :https://linux.do/t/topic/2020461/73  , 别买新的gpt 会员了
 
 对于不愿意折腾的人, 但是预算又一般的人(其实就是大部分人), 可以在下面推荐的站点里, 选一些有GPT5.4的中转站. 
 现在GPT5.4 基本都没有掺水的, 一般是人民币¥1.5(进)9(出)/一百万Token左右, 物美又价廉. 
@@ -559,9 +560,6 @@ aicodemirror 是一个老牌的中转站, 之前使用的人很多
 价格方面,Claude是官方渠道是3.8折, 如果是反代出来的接口目前是1.9折. codex和Gemini很便宜, 分别是0.6折和1折.
 
 
-
-
-
 ### [Chintao AI](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fchintao.cn%2Fregister%3Faff%3DRF8V&name=Chintao%20AI&source=git)
 很新的一个站点. 2026年3月份做的. 
 
@@ -575,7 +573,6 @@ aicodemirror 是一个老牌的中转站, 之前使用的人很多
 充值10块钱就能做VIP, 以后都打8折. 
 
 有一个风险是这是一个新站, 少充点,以防跑路
-
 
 
 ### [LingxiCode](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fnew.050602.xyz%2Fregister&name=LingxiCode&source=git)
