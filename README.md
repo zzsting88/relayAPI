@@ -58,6 +58,19 @@ Gemini现在好多渠道都用不了,或者响应速度巨慢, 用下来只有Pa
 新人注册送1元, 可以先试试再决定购买.  最少充值50块, 支持开发票.
 
 
+### [ANYONE.ai](https://www.hvoy.ai/relaySite?&name=ANYONE.ai&source=git)
+这个是一个新开的站点, 主要是面向企业用户.
+网站是基于newapi改的, 但是看得出来还是花了一些心思.
+
+支持的算法包括Claude, Gemini, GPT,还支持 GLM,Qwen, xAI, Kimi这些.
+
+因为主要是面向企业用户, 所以价格上不便宜, 基本上是官方原价.
+
+**但是**, 但是, 他们居然有免费的羊毛可以薅, GPT5.5的价格是官方原价.. 但是GPT5.4居然只要 人民币 ¥0.15(进)0.8(出)/一百万Token. 不知道是不是他们的策略.
+
+而且, 新注册用户可以"选时候", 送一个2个小时的免费GPT套餐. 这个羊毛确实值.
+
+但是还是要注意风险, 充钱要谨慎. 毕竟是一个新站. 
 
 ### [RightCode](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fwww.right.codes%2Fregister%3Faff%3Da8707f0d&name=RightCode&source=git)
 就是为编程准备的, 只支持Claude, Gemini和GPT的接口. 
