@@ -62,6 +62,8 @@
 
 这个品质下,肯定是最便宜的价格了吧.
 
+--- 更新, 好像缓存有问题. 先别用Claude的接口. GPT5.4没问题, 赶紧蹬.
+
 
 ### [PackyCode](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fwww.packyapi.com%2Fregister%3Faff%3DgF1p&name=PackyCode&source=git)
 PackyCode 大约是24年底25年初开始活跃, 是国内比较早针对Claude Code进行优化的供应商.
