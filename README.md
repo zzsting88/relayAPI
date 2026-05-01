@@ -48,7 +48,6 @@
 
 目前 Opus 4.6  ¥2.8(进)14(出)/一百万Token, Sonnet4.6 ¥1.8(进)9(出)/一百万Token
 
-
 **但是**, 但是, 他们居然有免费的羊毛可以薅, GPT5.5的价格是官方原价.
 
 但是GPT5.4居然只要 人民币 ¥0.15(进)0.8(出)/一百万Token. 不知道是不是他们的策略. (约等于不要钱)
@@ -56,6 +55,8 @@
 ~而且, 新注册用户可以"选时候", 送一个2个小时的免费GPT套餐. 这个羊毛确实值.~(4-30 更新现在没了)
 
 但是还是要注意风险, 充钱要谨慎. 毕竟是一个新站. 
+
+2026-5-1 更新: 这一家的claude 缓存好像有问题, 要注意一下. 优先用GPT5.5吧.
 
 ### [PackyCode](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fwww.packyapi.com%2Fregister%3Faff%3DgF1p&name=PackyCode&source=git)
 PackyCode 大约是24年底25年初开始活跃, 是国内比较早针对Claude Code进行优化的供应商.
