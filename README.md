@@ -131,17 +131,26 @@ GPT5.4是人民币¥2.5(进)15(出)/一百万Token.
 
 支持的算法包括Claude, Gemini, GPT,还支持 GLM,Qwen, xAI, Kimi这些.
 
-目前 Opus 4.6  ¥2.8(进)14(出)/一百万Token, Sonnet4.6 ¥1.8(进)9(出)/一百万Token
-
-**但是**, 但是, 他们居然有免费的羊毛可以薅, GPT5.5的价格是官方原价.
-
-但是GPT5.4居然只要 人民币 ¥0.15(进)0.8(出)/一百万Token. 不知道是不是他们的策略. (约等于不要钱)
-
-~而且, 新注册用户可以"选时候", 送一个2个小时的免费GPT套餐. 这个羊毛确实值.~(4-30 更新现在没了)
+目前 Opus 4.7  ¥6.8(进)34(出)/一百万Token, Sonnet4.6 ¥4.1(进)20.5(出)/一百万Token
+GPT5.5是 ¥1(进)6(出)/一百万Token. 价格比较合理
 
 但是还是要注意风险, 充钱要谨慎. 毕竟是一个新站. 
 
 2026-5-1 更新: 这一家的claude 缓存好像有问题, 要注意一下. 优先用GPT5.5吧.
+
+
+### [NekoCode](https://www.hvoy.ai/relaySite?name=NekoCode&source=git)
+2026年新开的一个站点, 提供Claude, GPT 两种类型的API.
+界面风格也是淡淡的, 甚得我心.
+
+接口异常稳定, claude 就有 max号池 和kiro 两个选择. 都挺稳定的, max 质量很好,kiro 比较实惠.
+
+价格比较合理, max渠道的 Opus4.7 价格是 ¥9(进)45(出)/一百万Token, 质量对得起这个价格. 
+
+之前有包月套餐, 现在都没了.主要是按量.
+新用户有一个小福利, 15 块钱可以卖 30 块钱的量.
+此外, 最低充 20 人民币.
+
 
 ### [DawCode](https://www.hvoy.ai/relaySite?name=DawCode&source=git)
 2026年新开的一个站点, 提供Claude, GPT,Gemini三种类型的API.
