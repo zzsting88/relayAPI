@@ -621,7 +621,7 @@ Gemini3.1 Pro都是按次的, 每次4分钱.
 
 
 
-###  [AI派](https://www.hvoy.ai/relaySite?&name=AI%E6%B4%BE&source=git)
+###  AI派
 这也是一个比较新的网站
 
 只支持Claude, Gemini, GPT. 刚开始支持NanoBanan2, 4k文生图
