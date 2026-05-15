@@ -35,8 +35,6 @@
 
 至于具体的检测代码, 已经不开源了. 
 
-希望看检测原理的朋友, 推荐这个[api-relay-audit](https://github.com/toby-bridges/api-relay-audit)这个项目, 很有参考价值.
-
 ![banner](pic/banner.png)
 
 ## 推荐的
