@@ -70,7 +70,7 @@ Gemini现在好多渠道都用不了,或者响应速度巨慢, 用下来只有Pa
 
 质量也不错, 对的起这个价格.
 
-GPT 系列很划算, GPT5.5是人民币¥1(进)6(出)/一百万Token (非常推荐. 我自己的主力)
+GPT 系列还可以, GPT5.5是人民币¥2(进)12(出)/一百万Token
 
 Gemini系列的接口也很便宜, 大概是官网价格的1折.
 
@@ -167,16 +167,6 @@ GPT5.5 价格是1(进)6(出)/一百万Token. 挺公道的价格.
 
 总体来说是个很不错的站.
 
-### [DuckCoding](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fwww.duckcoding.ai%2Fregister%3Faff%3DbRob&name=DuckCoding&source=git)
-这是2025年10月开始运营的站点.
-
-支持Claude, Gemini,GPT 和 Grok.
-
-目前最便宜的是自己建的MAX池子, Sonnet4.6 价格是人民币¥4.5(进)22.5(出)/一百万Token. Opus4.6 最便宜是¥7.5(进)37.5(出)/一百万Token.
-用户登录送1块钱, 每天能送一点钱.
-MAX池子用起来是没有掺水.
-
-最少充值一块钱进行尝试. 只支持QQ邮箱进行注册
 
 
 ### [DeRouter](https://www.hvoy.ai/relaySite?&name=DeRouter&source=git)
