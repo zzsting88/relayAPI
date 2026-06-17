@@ -128,14 +128,18 @@ btw:这个站点的域名老容易打错.
 此外, 最低充 20 人民币.
 
 
-### [Unity2.ai](https://www.hvoy.ai/relaySite?name=Unity2.ai&source=git)
+### [Unity2.ai](https://hvoy.ai/relaySite?id=39968&name=unity2&source=lb&model_tab=opus48&display_algo=featured&position=top12)
 这个站最近在 L 站、V2EX 和几个开发者群里出现得比较多。
 
 他们的套餐档位比较全，有 go 日卡、plus 周卡、pro 周卡、max 月卡、ultra 月卡，还有 ultra 中杯 / 大杯 / 超大杯。轻度用户可以先用日卡试试，高频用户可以看周卡和月卡，团队用量大的可以直接看 ultra 系列。
 
 价格不是纯最低价路线，比较重视稳定和服务。
 
-现在有新人福利，注册送 $2，回帖或加群留 ID 还能再领 $10，合计最高差不多 $12。建议先拿赠送额度跑一下自己的真实场景，再决定要不要充值或订阅。
+现在有新人福利，注册送 $2，回帖或加群留 ID 还能再领 $10，合计最高差不多 $12。
+
+他的站长也经常在[hvoy](https://hvoy.ai/free-tokens/invite-codes)的免费领兑换码页面投放兑换码，有需要的可以去领。
+
+建议先拿赠送额度跑一下自己的真实场景，再决定要不要充值或订阅。
 
 ### [智惠API](https://www.hvoy.ai/relaySite?name=%E6%99%BA%E6%83%A0API&source=git)
 
