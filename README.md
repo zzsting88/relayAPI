@@ -141,6 +141,11 @@ btw:这个站点的域名老容易打错.
 
 建议先拿赠送额度跑一下自己的真实场景，再决定要不要充值或订阅。
 
+### [XycAi(星道智能)](https://xyc.ai/sign-up?utm_source=hvoyai&utm_medium=free)
+这个站号称是有正规大模型备案号和一些正规出海资质的合规对外企业，说是可以解决企业软件安全审查中上家数据合规性问题以及税务问题（有这方面需求的小伙伴请自行和站点核实哈）。
+
+价格也不贵，gpt5.5是2.2折，opus4.8是3.9折，他们支持的模型很多还有很多国产模型gpt、opus、豆包、DeepSeek、千问、可灵等都支持，还是做的很不错的。
+
 ### [Lumin AI](https://ai.luminai.cc/register?utm_source=hvoyai&utm_medium=free)
 这个站点2026年新开的站，主打性价比路线，可能因为站长也是程序员，目前对外宣传不多，支持claude和gpt，主打了kiro这类性价比渠道，满血也是有的。
 
