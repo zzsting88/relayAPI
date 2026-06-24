@@ -50,6 +50,19 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 
 ## 推荐的
 
+### [WinToken](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fwintoken.dev%2Fsign-up&name=WinToken&source=git)
+这是一个新站.  也常规的的支持 GPT、Claude、DeepSeek、Gemini、Qwen 这些常见的模型.
+
+他有按量计费, 也有套餐订阅. 按照他自己说的, 都是官方渠道, 所以价格贵, 但是确实质量没的说.  所以这个站比较适合豪气的企业多一点.
+
+虽然贵, 但是这个站新人活动太给力了.
+
+最近经常在hvoy的[免费兑换码](https://hvoy.ai/free-tokens/invite-codes)页面投放兑换码，一个新用户总体可以得到价值113人民币的额度。（0619更新，具体活动以站点为准哈）
+
+即使抢不到这个兑换码, 也能够拿到大概35块钱的额度.
+
+可以趁着活动先用赠送的新人额度跑一下自己的真实场景，再决定要不要长期使用。
+
 ### [PackyCode](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fwww.packyapi.com%2Fregister%3Faff%3DgF1p&name=PackyCode&source=git)
 PackyCode 大约是24年底25年初开始活跃, 是国内比较早针对Claude Code进行优化的供应商.
 
@@ -113,21 +126,6 @@ Sonnet4.6的价格是人民币 10.5/63 一百万Token.(虽然还是不便宜)
 轻度用户可以去白嫖, sonnet4-6每天可以白嫖50次. 后面有free就是可以免费用几次的. 
 
 btw:这个站点的域名老容易打错.
-
-
-### [WinToken](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fwintoken.dev%2Fsign-up&name=WinToken&source=git)
-这是一个新站.  也常规的的支持 GPT、Claude、DeepSeek、Gemini、Qwen 这些常见的模型.
-
-他有按量计费, 也有套餐订阅. 按照他自己说的, 都是官方渠道, 所以价格贵, 但是确实质量没的说.  所以这个站比较适合豪气的企业多一点.
-
-虽然贵, 但是这个站新人活动太给力了.
-
-最近经常在hvoy的[免费兑换码](https://hvoy.ai/free-tokens/invite-codes)页面投放兑换码，一个新用户总体可以得到价值113人民币的额度。（0619更新，具体活动以站点为准哈）
-
-即使抢不到这个兑换码, 也能够拿到大概35块钱的额度.
-
-可以趁着活动先用赠送的新人额度跑一下自己的真实场景，再决定要不要长期使用。
-
 
 ### [Unity2.ai](https://www.hvoy.ai/relaySite?id=39968&name=unity2&source=git)
 这个站最近在 L 站、V2EX 和几个开发者群里出现得比较多。
