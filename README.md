@@ -224,6 +224,14 @@ Sonnet4.6的价格是人民币 10.5/63 一百万Token.(虽然还是不便宜)
 
 btw:这个站点的域名老容易打错.
 
+### [Galaxtec](https://galaxtec.site)
+国内腾讯云服务器部署，稳定低延迟，统一 OpenAI 兼容格式，改一行 `base_url` 即可使用。
+
+支持 DeepSeek V4、Qwen（通义千问）、GLM（智谱）、MiniMax、Moonshot 等国产大模型，价格透明，计费清晰。
+
+**新人注册赠送免费体验额度**，可以先行测试再决定充值，支持支付宝微信支付。模型更新及时，服务稳定运行中。
+
+
 ## 中性
 
 ### [Chintao AI](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fchintao.cn%2Fregister%3Faff%3DRF8V&name=Chintao%20AI&source=git)
