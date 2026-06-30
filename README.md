@@ -103,6 +103,18 @@ Gemini系列的接口也很便宜, 大概是官网价格的1折.
 文档非常清晰, 接口响应速度比较快.
 
 
+### [NekoCode](https://www.hvoy.ai/relaySite?name=NekoCode&source=git)
+2026年新开的一个站点, 提供Claude, GPT 两种类型的API.
+界面风格也是淡淡的, 甚得我心.
+
+接口异常稳定, claude 就有 max号池 和kiro 两个选择. 都挺稳定的, max 质量很好,kiro 比较实惠.
+
+价格比较合理, max渠道的 Opus4.7 价格是 ¥9(进)45(出)/一百万Token, 质量对得起这个价格. 
+
+之前有包月套餐, 现在都没了.主要是按量.
+新用户有一个小福利, 15 块钱可以卖 30 块钱的量.
+此外, 最低充 20 人民币.
+
 ### [Unity2.ai](https://www.hvoy.ai/relaySite?id=39968&name=unity2&source=git)
 这个站最近在 L 站、V2EX 和几个开发者群里出现得比较多。
 
