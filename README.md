@@ -52,7 +52,7 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 
 ## 推荐的
 
-### [WinToken](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fwintoken.dev%2Fsign-up&name=WinToken&source=git)
+### [CUN.ai](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fcun.ai%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=CUN.ai&source=git)
 这是一个新站.  也常规的的支持 GPT、Claude、DeepSeek、Gemini、Qwen 这些常见的模型.
 
 他有按量计费, 也有套餐订阅. 按照他自己说的, 都是官方渠道, 所以价格贵, 但是确实质量没的说.  所以这个站比较适合豪气的企业多一点.
