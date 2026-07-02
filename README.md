@@ -55,7 +55,7 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 ### [CUN.ai](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fcun.ai%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=CUN.ai&source=git)
 CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火起来热度很高。支持模型种类挺多的GPT、Claude、DeepSeek、Gemini、Qwen、GLM 等都有，当下热门的Claude Fable 5、Claude Sonnet 5、Claude Opus 系列、GPT-5.5、GLM-5.2 等都有，团队效率挺高的。
 
-他有按量计费, 也有套餐订阅，站长非常豪气，经常在hvoy的[免费兑换码](https://hvoy.ai/free-tokens/invite-codes)页面投放兑换码，一个新用户总体可以得到价值140人民币的额度。
+他有按量计费, 也有套餐订阅，站长非常豪气，经常在hvoy的[免费兑换码](https://hvoy.ai/free-tokens/invite-codes)页面投放兑换码，一个新用户总体可以得到价值 **140人民币** 的额度。
 
 即使抢不到给hvoy用户的这个大额兑换额度，新用户直接去注册也可获得约60块钱的额度。
 
