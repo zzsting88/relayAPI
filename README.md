@@ -81,7 +81,7 @@ Gemini现在好多渠道都用不了,或者响应速度巨慢, 用下来只有Pa
 
 新人注册送1元, 可以先试试再决定购买.  最少充值50块, 支持开发票.
 
-### [RightCode](https://www.hvoy.ai/relaySite?&name=RightCode&source=git)
+### [RightCode](https://www.hvoy.ai/leaderboard)
 就是为编程准备的, 只支持Claude, Gemini和GPT的接口. 
 
 价格很便宜, Kiro逆向的接口大概是官网的0.4折. Opus 4.6 反代的价格是人民币¥1.5(进)7.5(出)/一百万Token, Sonnet 4.6的价格是人民币¥0.9(进)4.5(出)/一百万Token . 这个渠道接口质量一般
@@ -127,7 +127,7 @@ Gemini系列的接口也很便宜, 大概是官网价格的1折.
 
 建议先拿赠送额度跑一下自己的真实场景，再决定要不要充值或订阅。
 
-### [DuiAPI](https://www.hvoy.ai/relaySite?id=40424&name=duiapi&source=git)
+### [DuiAPI](https://www.hvoy.ai/relaySite?id=40424&name=DuiAPI&source=git)
 DuiAPI (对 API) 是一个主打直连官方平台的站点，目前支持 Qwen3.7-Max、GLM-5.2、DeepSeek-V4 这几个主流模型，目前新站价格都有折扣，计费比较清晰，调用记录也可以追溯，对需要做成本核算、接口测试、产品原型验证或者企业内部工具集成的使用者会比较友好。
 
 整体看，这个站更偏规范化和可管理性，不是单纯卷最低价的路线。如果你比较在意模型来源、调用记录和账单透明度，可以试试这个站，现在新用户注册送2刀，可以小额跑一下自己的真实场景试试看。
