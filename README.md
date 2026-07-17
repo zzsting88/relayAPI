@@ -366,3 +366,16 @@ Claude方面, 好玩的是只支持Sonnet4.6和Opus4.6, 其实也是, 与其用4
 大肘子是一个RP友好的中转站
 
 这个站在xhs上讨论很多, 但是接口质量真的很差. 这个站反代的非常明显, 特点是按调用次数收费, 而不是常见的按量收费.
+
+### KissAPI
+[kissapi.ai](https://kissapi.ai)
+
+海外 API 中转站，面向全球开发者。
+
+支持 200+ 模型，包括 Claude Opus 4.8、GPT-5.5、Gemini 3.5 Flash、DeepSeek V4 等。统一 OpenAI 兼容格式，一个 Key 调用所有模型。
+
+按量计费，注册送 $1 试用额度。英文博客有 30+ 篇接入教程（覆盖 Claude Code、Cursor、Cline、Aider、Codex CLI 等工具）。
+
+支持 Stripe/PayPal 国际支付。
+
+接口质量：稳定性不错，响应速度快。文档齐全。
