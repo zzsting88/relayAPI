@@ -52,6 +52,11 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 
 ## 推荐的
 
+### [DuiAPI](https://www.hvoy.ai/relaySite?id=40424&name=duiapi&source=git)
+DuiAPI (对 API) 是一个主打直连官方平台的站点，目前支持 Qwen3.7-Max、GLM-5.2、DeepSeek-V4 这几个主流模型，**目前新站Qwen3.7 5折优惠、其它模型也有在不同程度的打折**，计费比较清晰，调用记录也可以追溯，对需要做成本核算、接口测试、产品原型验证或者企业内部工具集成的使用者会比较友好。
+
+整体看，这个站更偏规范化和可管理性，不是单纯卷最低价的路线。如果你比较在意模型来源、调用记录和账单透明度，可以试试这个站，现在新用户注册送2刀，可以小额跑一下自己的真实场景试试看。
+
 ### [CUN.ai](https://www.hvoy.ai/sites/cunai)
 CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火起来热度很高。支持模型种类挺多的GPT、Claude、DeepSeek、Gemini、Qwen、GLM 等都有，当下热门的Claude Fable 5、Claude Sonnet 5、Claude Opus 系列、GPT 5.6 Sol、GLM-5.2 等都有，团队效率挺高的。
 
@@ -98,11 +103,6 @@ Gemini系列的接口也很便宜, 大概是官网价格的1折.
 
 文档非常清晰, 接口响应速度比较快.
 
-
-### [DuiAPI](https://www.hvoy.ai/relaySite?id=40424&name=duiapi&source=git)
-DuiAPI (对 API) 是一个主打直连官方平台的站点，目前支持 Qwen3.7-Max、GLM-5.2、DeepSeek-V4 这几个主流模型，**目前新站Qwen3.7 5折优惠、其它模型也有在不同程度的打折**，计费比较清晰，调用记录也可以追溯，对需要做成本核算、接口测试、产品原型验证或者企业内部工具集成的使用者会比较友好。
-
-整体看，这个站更偏规范化和可管理性，不是单纯卷最低价的路线。如果你比较在意模型来源、调用记录和账单透明度，可以试试这个站，现在新用户注册送2刀，可以小额跑一下自己的真实场景试试看。
 
 ### [我的贾维斯](https://www.hvoy.ai/sites/apiaijwscom)
 这个站是今年6月初上线的，上线后凭借价格优势和服务发展迅速。充值是1RMB=1刀，GPT 5.6 Sol 输入价格 0.5 元/百万 tokens（Pro 号池0.1倍率），Fable-5 输入价格 10 元/百万 tokens（Max 号池 1倍率）。支持开票 + 支持对公，客服响应速度快。
