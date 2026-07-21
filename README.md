@@ -289,6 +289,9 @@ Claude 只支持Opus4.6, 可以按次也可以按量.
 
 Gemini3.1 Pro都是按次的, 每次4分钱.
 
+### [cocodot](https://cocodot.co)
+OpenAI 兼容的 AI API 中转,一个 Key 调 Claude / GPT / Gemini / DeepSeek 等,支付宝人民币充值、按量计费。费率公开(开卡 / 充值 / 消费明码),主打不降智——降不降智可用开源工具 [LLMprobe](https://github.com/cocodot2026/LLMprobe) 自行验证(实测 87/100)。海外注册公司运营,余额可转、卡内资金持牌机构托管。接入地址 `https://cocodot.co/api/ai/v1`。
+
 
 ## 不推荐的
 
