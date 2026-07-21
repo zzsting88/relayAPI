@@ -218,6 +218,14 @@ GPT5.6 价格是人民币 14/84 一百万 Token, GPT5.4 价格是人民币 28/16
 
 btw:这个站点的域名老容易打错.
 
+### [Galaxtec](https://galaxtec.site)
+国内腾讯云服务器部署的 AI API 中转站，稳定低延迟，统一 OpenAI 兼容格式，改一行 `base_url` 即可接入使用。
+
+支持 DeepSeek V4、Qwen（通义千问）、GLM（智谱）、MiniMax、Moonshot（月之暗面）、豆包（Doubao）等国产大模型 API，价格透明，计费清晰，无隐藏费用。
+
+**新人注册赠送免费体验额度**，可以先测试再决定充值，支持支付宝和微信支付。模型更新及时，服务稳定运行中，适合个人开发者和企业用户接入。
+
+
 ## 中性
 
 ### [Chintao AI](https://www.hvoy.ai/sites/chintaocn)
