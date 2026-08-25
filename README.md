@@ -58,7 +58,7 @@ DuiAPI (对 API) 是一个主打直连官方平台的站点，支持 Qwen3.7-Max
 还有一点他计费比较清晰，调用记录也可以追溯，对需要做成本核算、接口测试、产品原型验证或者企业内部工具集成的使用者会比较友好。
 
 整体看，这个站更偏规范化和可管理性，不是单纯卷最低价的路线。如果你比较在意模型来源、调用记录和账单透明度，可以跑一下自己的真实场景试试看。
-### [CUN.ai](https://www.hvoy.ai/sites/cunai)
+### [CUN.ai](https://www.hvoy.ai/relaySite?id=40325&name=CUN.ai&source=git)
 CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火起来热度很高。支持模型种类挺多的GPT、Claude、DeepSeek、Gemini、Qwen、GLM 等都有，当下热门的Claude Fable 5、Claude Sonnet 5、Claude Opus 系列、GPT 5.6 Sol、GLM-5.2 等都有，团队效率挺高的。
 
 他有按量计费, 也有套餐订阅，站长非常豪气，经常在hvoy的[免费兑换码](https://hvoy.ai/free-tokens/invite-codes)页面投放兑换码，一个新用户总体可以得到价值 **140人民币** 的额度。
@@ -69,7 +69,32 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 
 可以趁着活动先用赠送的新人额度跑一下自己的真实场景，再决定要不要长期使用。
 
-### [PackyCode](https://www.hvoy.ai/sites/packyapicom)
+### [hao.ai](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fhao.ai%2Fzh%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=hao.ai&source=git)
+这个站已支持GPT、Claude、xAI Grok 等主流模型，并兼容了 OpenAI、Anthropic 等常用协议与SDK。他们还提供模型路由、故障回退、团队管理及完整调用日志，模型价格也不贵，大概是官方参考价的 1.5 折。
+
+发展很快，用户体量挺大的，可以小额充值试一下。
+
+### [EiRouter](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fwww.cc-max.cc%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=EiRouter&source=git)
+这个站使用起来体验还不错，主打GPT和Claude系列模型，也支持Deepseek-v4-flash，分组划分的比较细致可以满足不同用户的需求，追求极致稳定的用户可以使用GPT精品和CC满血高端这类的分组；追求性价比的用户可以使用普通组，Claude是1.2倍率，GPT是0.4倍率。
+
+这家充值比例是1:1，可以小额充值试用后再决定要不要长期使用。
+
+### [Modelflare](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Forigin.modelflare.dev%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=Modelflare&source=git)
+这家站有个特惠活动，单笔充值 US$20 后可解锁 GPT 特惠分组，这个组很便宜，解锁这个组后GPT‑5.6‑Sol 价格大概是¥0.51(进)3.01(出)/一百万Token，问了站点的客服说没有使用上限的限制。
+
+站点由美国 LLC 主体 Havenbyte LLC 运营，支持 GPT、Claude、Gemini、Grok 等主流模型和常用兼容协议；API Key 可以配置有序回退，调用记录可查看 Token、延迟、状态和实际成本。缓存补偿也是一个这个站的一个亮点。部分 OpenAI 价格优先、稳定和高级分组提供每日 65%、75%、85% 的缓存命中率保障；符合条件的请求如果未达到目标，平台会补偿差额，结算后可在用量看板查看。
+
+推荐小额先试一下，觉得不错的话再参加他们的充值解锁特惠分组的活动，以降低长期使用的成本。
+
+### [ToolCode](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Ftoolcode.top%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=ToolCode&source=git)
+这个站是2025年12月上线的站点，主打GPT系列和Claude系列， 也支持Kimi-K3、gpt-image-2生图、Gemini和Grok等。这个站有不少企业客户，追求稳定的用户可以使用它的纯享分组，追求性价比的用户可以使用它的优惠分组，5.6-sol福利价最低能做到¥0.6(进)4.1(出)/一百万Token。综合性价比很不错。
+
+### [云渡](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fyundu.lol%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=%E4%BA%91%E6%B8%A1&source=git)
+云渡目前支持 GPT、Claude 等主流模型，其中 GPT-5.6-sol 的价格为¥0.6(进)4.1(出)/一百万Token；Claude Opus 系列的价格为¥2.5(进)12.5(出)/一百万Token
+
+价格挺透明的，按实际 Token 用量计费，主流模型和优质渠道的更新速度也可以，适合对模型价格和使用成本有要求的开发者。
+
+### [PackyCode](https://www.hvoy.ai/relaySite?id=39842&name=PackyCode&source=git)
 PackyCode 大约是25年初开始活跃, 是国内比较早针对Claude Code进行优化的供应商.
 
 这个站点与开源社区互动比较频繁, 站长在x上也非常活跃, 客服响应比较快. 随着发展, 这个站已经是很多中转站的上游供应商.
@@ -87,7 +112,7 @@ Gemini现在好多渠道都用不了,或者响应速度巨慢, 用下来只有Pa
 
 新人注册送1元, 可以先试试再决定购买.  最少充值50块, 支持开发票.
 
-### [SudoCode](https://www.hvoy.ai/sites/sudocodechat)
+### [SudoCode](https://www.hvoy.ai/relaySite?id=40095&name=SudoCode&source=git)
 看名字就知道是一个专门编程的站点.
 这是一个 2026 年刚成立的站, 站点对于模型支持非常快速. 新的模型基本第一时间就能上线.
 
@@ -96,17 +121,17 @@ Gemini现在好多渠道都用不了,或者响应速度巨慢, 用下来只有Pa
 网站支持退款, 可以开发票.
 
 
-### [我的贾维斯](https://www.hvoy.ai/sites/apiaijwscom)
+### [我的贾维斯](https://www.hvoy.ai/relaySite?id=40324&name=%E6%88%91%E7%9A%84%E8%B4%BE%E7%BB%B4%E6%96%AF&source=git)
 这个站是今年6月初上线的，上线后凭借价格优势和服务发展迅速。充值是1RMB=1刀，GPT 5.6 Sol 输入价格 0.5 元/百万 tokens（Pro 号池0.1倍率），Fable-5 输入价格 10 元/百万 tokens（Max 号池 1倍率）。支持开票 + 支持对公，客服响应速度快。
 
 这个站有时候会在 [hvoy](https://hvoy.ai/free-tokens/invite-codes) 的免费兑换码投放兑换码，有需要的新用户可以关注一下领取体验一下。
 
-### [9527code](https://www.hvoy.ai/sites/9527codecom)
+### [9527code](https://www.hvoy.ai/relaySite?id=39937&name=9527code&source=git)
 9527code是2025年12月就成立的一家站点，稳定性和真实性方面的口碑不错，号称是若发现模型降级、套壳或掺水，经核实，假一赔十。去试了一下售后流程，客服响应很快，用起来比较省心。
 
 价格的话，除了按量计费，还提供月套餐，月套餐倍率更低；他们也经常举办用户互动方面活动，还时常给新/老用户推出活动专属福利、特惠分组、赠送额度，对于追求稳定性并计划长期使用的用户会更加划算。可以关注一下这家站的公告和平台活动，赶上的时候还挺合适的。
 
-### [灵算](https://www.hvoy.ai/sites/lingsuan)
+### [灵算](https://www.hvoy.ai/relaySite?id=39980&name=%E7%81%B5%E7%AE%97&source=git)
 灵算这个站我自己试了一段时间后感觉还挺适合开发者直接拿来干活的，GPT 系列价格挺有优势的，GPT 5.6 Sol 现在是¥0.79(进)4.74(出)/一百万Token，GPT-5.4 是¥0.395(进)2.37(出)/一百万Token。实际用下来，稳定性方面我也比较满意，接口响应比较稳。
 
 它的gpt-image-2 生图，1K 图 1 毛一张，拿来做文章配图、产品图草稿、封面图或者一些轻量设计需求，成本很低。
@@ -114,24 +139,24 @@ Gemini现在好多渠道都用不了,或者响应速度巨慢, 用下来只有Pa
 如果你想找一个便宜且稳定性也不错的GPT站，可以试试这家。
 
 
-### [YKH.AI](https://www.hvoy.ai/sites/apiwangcaicloud)
+### [YKH.AI](https://www.hvoy.ai/relaySite?id=39975&name=YKH.AI&source=git)
 我比较喜欢这个站的一点是没有很多营销词，如果你想找一个界面干净、方便快速接入的 AI API 站点可以看看这个。追求性价比的话可以选 lite 分组算下来¥0.25/一百万Token，追求稳定性高的话可以选纯pro号池是 ¥0.5/一百万Token，便宜的和稳定的全都有，可以满足不同用户的需求。
 
 这个站的站长说YKH.AI 这个名字是 You Know How 的缩写，想对用户表达他的站要把“问题怎么问、上下文怎么整理、下一步怎么走”这件事做得更清楚，是个非常有心的站长哈哈，可以试试看。
 
-### [智惠API](https://www.hvoy.ai/sites/apiapi2cncom)
+### [智惠API](https://www.hvoy.ai/relaySite?id=40026&name=%E6%99%BA%E6%83%A0API&source=git)
 这个站是2026年新开的一个站点，模型比较全，支持 Claude、GPT、Gemini、Grok 等大模型。
 
 Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5的价格是 ¥13(进)65(出)/一百万Token。Kiro逆向是¥1(进)5(出)/一百万Token的超低价，GPT 5.6 Sol模型价格是 ¥0.75(进)4.5(出)/一百万Token。
 
 该站最近推出了会员等级计划，根据不同会员等级每次充值享受不同的额外赠送比例，用于奖励忠诚会员，站内消费越久，权益越高。
 
-### [XycAi(星道智能)](https://www.hvoy.ai/sites/xycai)
+### [XycAi(星道智能)](https://www.hvoy.ai/relaySite?id=40216&name=XycAi%28%E6%98%9F%E9%81%93%E6%99%BA%E8%83%BD%29&source=git)
 这个站号称是有正规大模型备案号和一些正规出海资质的合规对外企业，说是可以解决企业软件安全审查中上家数据合规性问题以及税务问题（有这方面需求的小伙伴请自行和站点核实哈）。
 
 价格也不贵，GPT 5.6 Sol是2.2折，opus4.8是3.9折，他们支持的模型很多还有很多国产模型gpt、opus、豆包、DeepSeek、千问、可灵等都支持，还是做的很不错的。
 
-### [UU API](https://www.hvoy.ai/sites/uuapinet)
+### [UU API](https://www.hvoy.ai/relaySite?id=39863&name=UU+API&source=git)
 UU API 主要支持Claude 和GPT. 也支持gpt-image-2 来生成图片.
 
 Claude 建议使用 MAX分组, 实测都是max号池, 质量没啥问题. opus-4.8的价格是 11(进)55(出)/一百万Token.
@@ -142,7 +167,7 @@ gpt生图是按次的, 4分钱一次.
 
 平台支持支付宝和微信支付. 新注册用户送一块钱进行调试
 
-### [Poixe AI](https://www.hvoy.ai/sites/poixecom)
+### [Poixe AI](https://www.hvoy.ai/relaySite?id=39845&name=Poixe+AI&source=git)
 这个站是一个从 2024 年开始做, 在中转站里, 算是干了非常久的. 
 
 整个站的风格我很喜欢, 不是审美疲劳的New API的这种风格.
@@ -163,7 +188,7 @@ GPT5.6 价格是人民币 14/84 一百万 Token, GPT5.4 价格是人民币 28/16
 btw:这个站点的域名老容易打错.
 
 
-### [RightCode](https://www.hvoy.ai/leaderboard)
+### [RightCode](https://www.hvoy.ai/relaySite?id=39848&name=RightCode&source=git)
 **但是这个站点最近使用时,出现了较多的错误, 接口也不太稳. 暂时先保留意见**
 
 就是为编程准备的, 只支持Claude, Gemini和GPT的接口.  
@@ -182,7 +207,7 @@ Gemini系列的接口也很便宜, 大概是官网价格的1折.
 
 ## 中性
 
-### [Chintao AI](https://www.hvoy.ai/sites/chintaocn)
+### [Chintao AI](https://www.hvoy.ai/relaySite?target=https%3A%2F%2Fchintao.ai%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=Chintao%20AI&source=git)
 很新的一个站点. 2026年3月份做的. 
 
 但是我自己试了下, 接口质量很好, ~即使是逆向kiro或者aws的接口, 质量都很稳定很不错.~(现在也挂了)
@@ -190,13 +215,13 @@ Gemini系列的接口也很便宜, 大概是官网价格的1折.
 价格上也算是便宜的,  Opus4.8 是人民币¥4.8(进)24(出)/一百万Token.
 但是在这个质量上来说, 这个价格算很好. 接口基本不挂,基本没掺水.
 
-### [ModCon](https://www.hvoy.ai/sites/modcontop)
+### [ModCon](https://www.hvoy.ai/relaySite?id=40106&name=ModCon&source=git)
 
 ModCon是25年11月成立的一个站, GPT系列做的还不错.
 GPT 5.6 Sol的价格是0.9, 挺稳定的.
 
 
-### [aigocode.com](https://www.hvoy.ai/leaderboard)
+### [aigocode.com](https://www.hvoy.ai/relaySite?id=39782&name=AlGoCode&source=git)
 aigocode是一个口碑还不错的APIKEY网站, 目前没有发现用低价模型代替高级模型的情况. 我自己用的这段时间稳定性还行.
 模型方面只有Claude, GPT和 Gemini. 支持 Claude 4.6 & Codex 5.3 & Gemini 3.
 
