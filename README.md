@@ -94,6 +94,13 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 
 网站支持退款, 可以开发票.
 
+### [Portdan AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fportdan.com%2Fregister&name=Portdan%20AI&source=git)
+这个站活动比较多，目前有注册送额度、签到领额度的活动，新用户可以先去他们网站上领取些活动的免费额度，跑一跑自己的实际使用场景，再决定是否继续使用。除了注册和签到活动，站内也会不定期发放额外福利，推出实用的低价资源和特惠活动。
+
+售后也不错，使用过程中的问题反馈与后续跟进都体验不错。
+
+对于希望兼顾价格与使用体验的用户，可以先从赠送额度开始体验一下这个站。
+
 ### [DDTokens](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fddtnew.com%2F%3Faff%3DpyZV&name=DDTokens&source=git)
 这个站模型种类挺多的包含GPT、Claude、Gemini、Grok、Kimi、DeepSeek、GLM、Qwen、MiniMax等，他们现在有个活动，注册加他们的Q群或Telegram联系管理员可以领取¥5试用额度，可以领取一下去试试。
 
