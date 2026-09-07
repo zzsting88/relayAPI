@@ -101,9 +101,6 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 
 对于希望兼顾价格与使用体验的用户，可以先从赠送额度开始体验一下这个站。
 
-### [DDTokens](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fddtnew.com%2F%3Faff%3DpyZV&name=DDTokens&source=git)
-这个站模型种类挺多的包含GPT、Claude、Gemini、Grok、Kimi、DeepSeek、GLM、Qwen、MiniMax等，他们现在有个活动，注册加他们的Q群或Telegram联系管理员可以领取¥5试用额度，可以领取一下去试试。
-
 ### [ToolCode](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftoolcode.top%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=ToolCode&source=git)
 这个站是2025年12月上线的站点，主打GPT系列和Claude系列， 也支持Kimi-K3、gpt-image-2生图、Gemini和Grok等。这个站有不少企业客户，追求稳定的用户可以使用它的纯享分组，追求性价比的用户可以使用它的优惠分组，5.6-sol福利价最低能做到¥0.6(进)4.1(出)/一百万Token。综合性价比很不错。
 
