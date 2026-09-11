@@ -103,6 +103,16 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 
 对于希望兼顾价格与使用体验的用户，可以先从赠送额度开始体验一下这个站。
 
+### [CheapAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fcheapai.info%2Fregister&name=CheapAI&source=git)
+这个站是今年的一个新站，主打GPT和Claude模型，价格的话就像他的名字一样追求低价，追求性价比的可以用他的特惠分组折扣倍率很好，追求稳定的话可以选择他的稳定分组或者Pro分组，他们也有官key分组，可以满足不同使用需求的用户。
+
+充值的话支持的支付方式也挺多的，可以前往他们网站看看。
+
+### [znbcode](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fznbcode.com%2Fregister&name=znbcode&source=git)
+这个站接入的模型还挺多的，GPT、Claude、主流国产模型都有，其中GPT和Deepseek的价格挺好的性价比很高，Pro不降智号池分组gpt-6-astra价格是¥2.5(进)12.5(出)/一百万Token；gpt-5.6-sol价格是¥1.25(进)7.5(出)/一百万Token；GPT特惠组基本上是Pro不降智分组的一半价格就可以用上。DeepSeek V4/V4.1 Flash价格也合适，模型更新速度还挺快的。
+
+充值方式支持的很灵活，可以小额充值试一下。
+
 ### [ToolCode](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftoolcode.top%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=ToolCode&source=git)
 这个站是2025年12月上线的站点，主打GPT系列和Claude系列， 也支持Kimi-K3、gpt-image-2生图、Gemini和Grok等。这个站有不少企业客户，追求稳定的用户可以使用它的纯享分组，追求性价比的用户可以使用它的优惠分组，5.6-sol福利价最低能做到¥0.6(进)4.1(出)/一百万Token。综合性价比很不错。
 
