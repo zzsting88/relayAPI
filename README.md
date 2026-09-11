@@ -75,9 +75,11 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 发展很快，用户体量挺大的，可以小额充值试一下。
 
 ### [EiRouter](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwww.cc-max.cc%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=EiRouter&source=git)
-这个站使用起来体验还不错，主打GPT和Claude系列模型，也支持Deepseek-v4-flash，分组划分的比较细致可以满足不同用户的需求，追求极致稳定的用户可以使用GPT精品和CC满血高端这类的分组；追求性价比的用户可以使用普通组，Claude是1.2倍率，GPT是0.4倍率。
+这个站是2026年6月上线的，使用起来体验不错，接口兼容OpenAI / Anthropic，现有 SDK 不用重写。需要注意的是他们调用走 eirouter.ai，托管走 cloud.eirouter.ai，两个入口不要混。
 
-这家充值比例是1:1，可以小额充值试用后再决定要不要长期使用。
+新用户可以先联系他们客服领体验额度，建议先用自己的真实项目跑通，再决定充不充。支付支持微信、支付宝、对公转账，可开国内发票，也支持退款。
+
+适合先小额试、确认账单和对接都顺，再决定是否长期用。
 
 ### [Modelflare](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Forigin.modelflare.dev%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=Modelflare&source=git)
 这家站有个特惠活动，单笔充值 US$20 后可解锁 GPT 特惠分组，这个组很便宜，解锁这个组后GPT‑5.6‑Sol 价格大概是¥0.51(进)3.01(出)/一百万Token，问了站点的客服说没有使用上限的限制。
