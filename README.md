@@ -52,12 +52,6 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 
 ## 推荐的
 
-### [DuiAPI](https://www.hvoyai.com/relaySite?id=40424&name=duiapi&source=git)
-DuiAPI (对 API) 是一个主打直连官方平台的站点，支持 Qwen3.7-Max、GLM-5.2、DeepSeek-V4 等主流模型，新站很多模型5折优惠比如GLM-5.2、Qwen3.7现在都在打折，其它模型也在不同程度的打折，可以使用他的**5折特惠分组。现在新用户注册送2刀，立即到账。**
-
-还有一点他计费比较清晰，调用记录也可以追溯，对需要做成本核算、接口测试、产品原型验证或者企业内部工具集成的使用者会比较友好。
-
-整体看，这个站更偏规范化和可管理性，不是单纯卷最低价的路线。如果你比较在意模型来源、调用记录和账单透明度，可以跑一下自己的真实场景试试看。
 ### [CUN.ai](https://www.hvoyai.com/relaySite?id=40325&name=CUN.ai&source=git)
 CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火起来热度很高。支持模型种类挺多的GPT、Claude、DeepSeek、Gemini、Qwen、GLM 等都有，当下热门的Claude Fable 5、Claude Sonnet 5、Claude Opus 系列、GPT 5.6 Sol、GLM-5.2 等都有，团队效率挺高的。
 
@@ -120,6 +114,13 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 云渡目前支持 GPT、Claude 等主流模型，其中 GPT-5.6-sol 的价格为¥0.6(进)4.1(出)/一百万Token；Claude Opus 系列的价格为¥2.5(进)12.5(出)/一百万Token
 
 价格挺透明的，按实际 Token 用量计费，主流模型和优质渠道的更新速度也可以，适合对模型价格和使用成本有要求的开发者。
+
+### [DuiAPI](https://www.hvoyai.com/relaySite?id=40424&name=duiapi&source=git)
+DuiAPI (对 API) 是一个主打直连官方平台的站点，支持 Qwen3.7-Max、GLM-5.2、DeepSeek-V4 等主流模型，新站很多模型5折优惠比如GLM-5.2、Qwen3.7现在都在打折，其它模型也在不同程度的打折，可以使用他的**5折特惠分组。现在新用户注册送2刀，立即到账。**
+
+还有一点他计费比较清晰，调用记录也可以追溯，对需要做成本核算、接口测试、产品原型验证或者企业内部工具集成的使用者会比较友好。
+
+整体看，这个站更偏规范化和可管理性，不是单纯卷最低价的路线。如果你比较在意模型来源、调用记录和账单透明度，可以跑一下自己的真实场景试试看。
 
 ### [PackyCode](https://www.hvoyai.com/relaySite?id=39842&name=PackyCode&source=git)
 PackyCode 大约是25年初开始活跃, 是国内比较早针对Claude Code进行优化的供应商.
