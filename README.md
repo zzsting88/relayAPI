@@ -98,6 +98,13 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 ### [ToTokens](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftotokens.cc%2Fregister&name=ToTokens&source=git)
 这个站成立于2026年2月，支持Gpt、Claude等主流模型，客服和技术支持服务效率不错。gpt-5.6-sol价格是¥0.7(进)4.5(出)/一百万Token，他们针对专用分组做了容灾与秒级故障转移，高峰期也还稳定的，企业和中转站联系会有专属倍率优惠，10元起充可以小额测试一下试试。
 
+### [灵算](https://www.hvoyai.com/relaySite?id=39980&name=%E7%81%B5%E7%AE%97&source=git)
+灵算这个站我自己试了一段时间后感觉还挺适合开发者直接拿来干活的，GPT 系列价格挺有优势的，GPT 5.6 Sol 现在是¥0.79(进)4.74(出)/一百万Token，GPT-5.4 是¥0.395(进)2.37(出)/一百万Token。实际用下来，稳定性方面我也比较满意，接口响应比较稳。
+
+它的gpt-image-2 生图，1K 图 1 毛一张，拿来做文章配图、产品图草稿、封面图或者一些轻量设计需求，成本很低。
+
+如果你想找一个便宜且稳定性也不错的GPT站，可以试试这家。
+
 ### [CheapAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fcheapai.info%2Fregister&name=CheapAI&source=git)
 这个站是今年的一个新站，主打GPT和Claude模型，价格的话就像他的名字一样追求低价，追求性价比的可以用他的特惠分组折扣倍率很好，追求稳定的话可以选择他的稳定分组或者Pro分组，他们也有官key分组，可以满足不同使用需求的用户。
 
@@ -141,14 +148,6 @@ Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5
 这个站是今年6月初上线的，上线后凭借价格优势和服务发展迅速。充值是1RMB=1刀，GPT 5.6 Sol 输入价格 0.5 元/百万 tokens（Pro 号池0.1倍率），Fable-5 输入价格 10 元/百万 tokens（Max 号池 1倍率）。支持开票 + 支持对公，客服响应速度快。
 
 这个站有时候会在 [hvoy](https://hvoyai.com/free-tokens/invite-codes) 的免费兑换码投放兑换码，有需要的新用户可以关注一下领取体验一下。
-
-### [灵算](https://www.hvoyai.com/relaySite?id=39980&name=%E7%81%B5%E7%AE%97&source=git)
-灵算这个站我自己试了一段时间后感觉还挺适合开发者直接拿来干活的，GPT 系列价格挺有优势的，GPT 5.6 Sol 现在是¥0.79(进)4.74(出)/一百万Token，GPT-5.4 是¥0.395(进)2.37(出)/一百万Token。实际用下来，稳定性方面我也比较满意，接口响应比较稳。
-
-它的gpt-image-2 生图，1K 图 1 毛一张，拿来做文章配图、产品图草稿、封面图或者一些轻量设计需求，成本很低。
-
-如果你想找一个便宜且稳定性也不错的GPT站，可以试试这家。
-
 
 ### [YKH.AI](https://www.hvoyai.com/relaySite?id=39975&name=YKH.AI&source=git)
 我比较喜欢这个站的一点是没有很多营销词，如果你想找一个界面干净、方便快速接入的 AI API 站点可以看看这个。追求性价比的话可以选 lite 分组算下来¥0.25/一百万Token，追求稳定性高的话可以选纯pro号池是 ¥0.5/一百万Token，便宜的和稳定的全都有，可以满足不同用户的需求。
