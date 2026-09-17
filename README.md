@@ -95,12 +95,8 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 
 价格的话，除了按量计费，还提供月套餐，月套餐倍率更低；他们也经常举办用户互动方面活动，还时常给新/老用户推出活动专属福利、特惠分组、赠送额度，对于追求稳定性并计划长期使用的用户会更加划算。可以关注一下这家站的公告和平台活动，赶上的时候还挺合适的。
 
-### [Portdan AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fportdan.com%2Fregister&name=Portdan%20AI&source=git)
-这个站活动比较多，目前有注册送额度、签到领额度的活动，新用户可以先去他们网站上领取些活动的免费额度，跑一跑自己的实际使用场景，再决定是否继续使用。除了注册和签到活动，站内也会不定期发放额外福利，推出实用的低价资源和特惠活动。
-
-售后也不错，使用过程中的问题反馈与后续跟进都体验不错。
-
-对于希望兼顾价格与使用体验的用户，可以先从赠送额度开始体验一下这个站。
+### [ToTokens](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftotokens.cc%2Fregister&name=ToTokens&source=git)
+这个站成立于2026年2月，支持Gpt、Claude等主流模型，客服和技术支持服务效率不错。gpt-5.6-sol价格是¥0.7(进)4.5(出)/一百万Token，他们针对专用分组做了容灾与秒级故障转移，高峰期也还稳定的，企业和中转站联系会有专属倍率优惠，10元起充可以小额测试一下试试。
 
 ### [CheapAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fcheapai.info%2Fregister&name=CheapAI&source=git)
 这个站是今年的一个新站，主打GPT和Claude模型，价格的话就像他的名字一样追求低价，追求性价比的可以用他的特惠分组折扣倍率很好，追求稳定的话可以选择他的稳定分组或者Pro分组，他们也有官key分组，可以满足不同使用需求的用户。
@@ -134,8 +130,12 @@ Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5
 
 该站最近推出了会员等级计划，根据不同会员等级每次充值享受不同的额外赠送比例，用于奖励忠诚会员，站内消费越久，权益越高。
 
-### [ToTokens](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftotokens.cc%2Fregister&name=ToTokens&source=git)
-这个站成立于2026年2月，支持Gpt、Claude等主流模型，客服和技术支持服务效率不错。gpt-5.6-sol价格是¥0.7(进)4.5(出)/一百万Token，他们针对专用分组做了容灾与秒级故障转移，高峰期也还稳定的，企业和中转站联系会有专属倍率优惠，10元起充可以小额测试一下试试。
+### [Portdan AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fportdan.com%2Fregister&name=Portdan%20AI&source=git)
+这个站活动比较多，目前有注册送额度、签到领额度的活动，新用户可以先去他们网站上领取些活动的免费额度，跑一跑自己的实际使用场景，再决定是否继续使用。除了注册和签到活动，站内也会不定期发放额外福利，推出实用的低价资源和特惠活动。
+
+售后也不错，使用过程中的问题反馈与后续跟进都体验不错。
+
+对于希望兼顾价格与使用体验的用户，可以先从赠送额度开始体验一下这个站。
 
 ### [我的贾维斯](https://www.hvoyai.com/relaySite?id=40324&name=%E6%88%91%E7%9A%84%E8%B4%BE%E7%BB%B4%E6%96%AF&source=git)
 这个站是今年6月初上线的，上线后凭借价格优势和服务发展迅速。充值是1RMB=1刀，GPT 5.6 Sol 输入价格 0.5 元/百万 tokens（Pro 号池0.1倍率），Fable-5 输入价格 10 元/百万 tokens（Max 号池 1倍率）。支持开票 + 支持对公，客服响应速度快。
