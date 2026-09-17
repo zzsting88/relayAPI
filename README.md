@@ -95,15 +95,15 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 
 价格的话，除了按量计费，还提供月套餐，月套餐倍率更低；他们也经常举办用户互动方面活动，还时常给新/老用户推出活动专属福利、特惠分组、赠送额度，对于追求稳定性并计划长期使用的用户会更加划算。可以关注一下这家站的公告和平台活动，赶上的时候还挺合适的。
 
-### [ToTokens](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftotokens.cc%2Fregister&name=ToTokens&source=git)
-这个站成立于2026年2月，支持Gpt、Claude等主流模型，客服和技术支持服务效率不错。gpt-5.6-sol价格是¥0.7(进)4.5(出)/一百万Token，他们针对专用分组做了容灾与秒级故障转移，高峰期也还稳定的，企业和中转站联系会有专属倍率优惠，10元起充可以小额测试一下试试。
-
 ### [灵算](https://www.hvoyai.com/relaySite?id=39980&name=%E7%81%B5%E7%AE%97&source=git)
 灵算这个站我自己试了一段时间后感觉还挺适合开发者直接拿来干活的，GPT 系列价格挺有优势的，GPT 5.6 Sol 现在是¥0.79(进)4.74(出)/一百万Token，GPT-5.4 是¥0.395(进)2.37(出)/一百万Token。实际用下来，稳定性方面我也比较满意，接口响应比较稳。
 
 它的gpt-image-2 生图，1K 图 1 毛一张，拿来做文章配图、产品图草稿、封面图或者一些轻量设计需求，成本很低。
 
 如果你想找一个便宜且稳定性也不错的GPT站，可以试试这家。
+
+### [ToTokens](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftotokens.cc%2Fregister&name=ToTokens&source=git)
+这个站成立于2026年2月，支持Gpt、Claude等主流模型，客服和技术支持服务效率不错。gpt-5.6-sol价格是¥0.7(进)4.5(出)/一百万Token，他们针对专用分组做了容灾与秒级故障转移，高峰期也还稳定的，企业和中转站联系会有专属倍率优惠，10元起充可以小额测试一下试试。
 
 ### [ToolCode](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftoolcode.top%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=ToolCode&source=git)
 这个站是2025年12月上线的站点，主打GPT系列和Claude系列， 也支持Kimi-K3、gpt-image-2生图、Gemini和Grok等。这个站有不少企业客户，追求稳定的用户可以使用它的纯享分组，追求性价比的用户可以使用它的优惠分组，5.6-sol福利价最低能做到¥0.6(进)4.1(出)/一百万Token。综合性价比很不错。
