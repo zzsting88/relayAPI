@@ -75,13 +75,6 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 
 发展很快，用户体量挺大的，可以小额充值试一下。
 
-### [EiRouter](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwww.cc-max.cc%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=EiRouter&source=git)
-这个站是2026年6月上线的，使用起来体验不错，接口兼容OpenAI / Anthropic，现有 SDK 不用重写。需要注意的是他们调用走 eirouter.ai，托管走 cloud.eirouter.ai，两个入口不要混。
-
-新用户可以先联系他们客服领体验额度，建议先用自己的真实项目跑通，再决定充不充。支付支持微信、支付宝、对公转账，可开国内发票，也支持退款。
-
-适合先小额试、确认账单和对接都顺，再决定是否长期用。
-
 ### [SudoCode](https://www.hvoyai.com/relaySite?id=40095&name=SudoCode&source=git)
 看名字就知道是一个专门编程的站点.
 这是一个 2026 年刚成立的站, 站点对于模型支持非常快速. 新的模型基本第一时间就能上线.
@@ -89,6 +82,13 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 模型方面, 目前gpt5.6 sol价格是人民币¥1(进)6(出)/一百万Token,  Opus5的满血 CC Max 渠道价格是人民币¥7(进)35(出)/一百万Token, 这两个的价格都还不错.
 
 网站支持退款, 可以开发票.
+
+### [EiRouter](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwww.cc-max.cc%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=EiRouter&source=git)
+这个站是2026年6月上线的，使用起来体验不错，接口兼容OpenAI / Anthropic，现有 SDK 不用重写。需要注意的是他们调用走 eirouter.ai，托管走 cloud.eirouter.ai，两个入口不要混。
+
+新用户可以先联系他们客服领体验额度，建议先用自己的真实项目跑通，再决定充不充。支付支持微信、支付宝、对公转账，可开国内发票，也支持退款。
+
+适合先小额试、确认账单和对接都顺，再决定是否长期用。
 
 ### [Portdan AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fportdan.com%2Fregister&name=Portdan%20AI&source=git)
 这个站活动比较多，目前有注册送额度、签到领额度的活动，新用户可以先去他们网站上领取些活动的免费额度，跑一跑自己的实际使用场景，再决定是否继续使用。除了注册和签到活动，站内也会不定期发放额外福利，推出实用的低价资源和特惠活动。
