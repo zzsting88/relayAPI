@@ -105,6 +105,14 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 
 如果你想找一个便宜且稳定性也不错的GPT站，可以试试这家。
 
+### [ToolCode](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftoolcode.top%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=ToolCode&source=git)
+这个站是2025年12月上线的站点，主打GPT系列和Claude系列， 也支持Kimi-K3、gpt-image-2生图、Gemini和Grok等。这个站有不少企业客户，追求稳定的用户可以使用它的纯享分组，追求性价比的用户可以使用它的优惠分组，5.6-sol福利价最低能做到¥0.6(进)4.1(出)/一百万Token。综合性价比很不错。
+
+### [云渡](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fyundu.lol%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=%E4%BA%91%E6%B8%A1&source=git)
+云渡目前支持 GPT、Claude 等主流模型，其中 GPT-5.6-sol 的价格为¥0.6(进)4.1(出)/一百万Token；Claude Opus 系列的价格为¥2.5(进)12.5(出)/一百万Token
+
+价格挺透明的，按实际 Token 用量计费，主流模型和优质渠道的更新速度也可以，适合对模型价格和使用成本有要求的开发者。
+
 ### [CheapAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fcheapai.info%2Fregister&name=CheapAI&source=git)
 这个站是今年的一个新站，主打GPT和Claude模型，价格的话就像他的名字一样追求低价，追求性价比的可以用他的特惠分组折扣倍率很好，追求稳定的话可以选择他的稳定分组或者Pro分组，他们也有官key分组，可以满足不同使用需求的用户。
 
@@ -114,14 +122,6 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 这个站接入的模型还挺多的，GPT、Claude、主流国产模型都有，其中GPT和Deepseek的价格挺好的性价比很高，Pro不降智号池分组gpt-6-astra价格是¥2.5(进)12.5(出)/一百万Token；gpt-5.6-sol价格是¥1.25(进)7.5(出)/一百万Token；GPT特惠组基本上是Pro不降智分组的一半价格就可以用上。DeepSeek V4/V4.1 Flash价格也合适，模型更新速度还挺快的。
 
 充值方式支持的很灵活，可以小额充值试一下。
-
-### [ToolCode](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftoolcode.top%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=ToolCode&source=git)
-这个站是2025年12月上线的站点，主打GPT系列和Claude系列， 也支持Kimi-K3、gpt-image-2生图、Gemini和Grok等。这个站有不少企业客户，追求稳定的用户可以使用它的纯享分组，追求性价比的用户可以使用它的优惠分组，5.6-sol福利价最低能做到¥0.6(进)4.1(出)/一百万Token。综合性价比很不错。
-
-### [云渡](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fyundu.lol%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=%E4%BA%91%E6%B8%A1&source=git)
-云渡目前支持 GPT、Claude 等主流模型，其中 GPT-5.6-sol 的价格为¥0.6(进)4.1(出)/一百万Token；Claude Opus 系列的价格为¥2.5(进)12.5(出)/一百万Token
-
-价格挺透明的，按实际 Token 用量计费，主流模型和优质渠道的更新速度也可以，适合对模型价格和使用成本有要求的开发者。
 
 ### [DuiAPI](https://www.hvoyai.com/relaySite?id=40424&name=duiapi&source=git)
 DuiAPI (对 API) 是一个主打直连官方平台的站点，支持 Qwen3.7-Max、GLM-5.2、DeepSeek-V4 等主流模型，新站很多模型5折优惠比如GLM-5.2、Qwen3.7现在都在打折，其它模型也在不同程度的打折，可以使用他的**5折特惠分组。现在新用户注册送2刀，立即到账。**
