@@ -122,24 +122,6 @@ DuiAPI (对 API) 是一个主打直连官方平台的站点，支持 Qwen3.7-Max
 
 整体看，这个站更偏规范化和可管理性，不是单纯卷最低价的路线。如果你比较在意模型来源、调用记录和账单透明度，可以跑一下自己的真实场景试试看。
 
-### [PackyCode](https://www.hvoyai.com/relaySite?id=39842&name=PackyCode&source=git)
-PackyCode 大约是25年初开始活跃, 是国内比较早针对Claude Code进行优化的供应商.
-
-这个站点与开源社区互动比较频繁, 站长在x上也非常活跃, 客服响应比较快. 随着发展, 这个站已经是很多中转站的上游供应商.
-
-我现在主流用法是, 要不就用便宜的GPT 5.6 Sol, 1-2块钱/一百万Token.
-要不就用贵的, 质量较好的Claude Code, 大概10块钱左右/一百万Token.
-
-质量较好的渠道是cc, Fable-5  20(进) 100(出)/一百万Token, 几乎不注水. 但是真的好贵. 
-
-GPPT 5.5 现在是人民币¥2.5(进)15(出)/一百万Token
-
-Gemini现在好多渠道都用不了,或者响应速度巨慢, 用下来只有PackyCode速度是最快的, 质量还可以. 价格是 Gemini 3.1 Pro是 人民币¥6(进)36(出)/一百万Token.
-
-他们对于国内的模型支持比较全, 支持阿里百炼的api, MiniMax(官方价格的5折),GLM(九折). 
-
-新人注册送1元, 可以先试试再决定购买.  最少充值50块, 支持开发票.
-
 ### [智惠API](https://www.hvoyai.com/relaySite?id=40026&name=%E6%99%BA%E6%83%A0API&source=git)
 这个站是2026年新开的一个站点，模型比较全，支持 Claude、GPT、Gemini、Grok 等大模型。
 
@@ -177,17 +159,6 @@ Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5
 这个站号称是有正规大模型备案号和一些正规出海资质的合规对外企业，说是可以解决企业软件安全审查中上家数据合规性问题以及税务问题（有这方面需求的小伙伴请自行和站点核实哈）。
 
 价格也不贵，GPT 5.6 Sol是2.2折，opus4.8是3.9折，他们支持的模型很多还有很多国产模型gpt、opus、豆包、DeepSeek、千问、可灵等都支持，还是做的很不错的。
-
-### [UU API](https://www.hvoyai.com/relaySite?id=39863&name=UU+API&source=git)
-UU API 主要支持Claude 和GPT. 也支持gpt-image-2 来生成图片.
-
-Claude 建议使用 MAX分组, 实测都是max号池, 质量没啥问题. opus-4.8的价格是 11(进)55(出)/一百万Token.
-
-GPT 5.6 Sol 价格是 1.5(进)9(出)/一百万Token. 还可以吧.
-
-gpt生图是按次的, 4分钱一次.
-
-平台支持支付宝和微信支付. 新注册用户送一块钱进行调试
 
 ### [Poixe AI](https://www.hvoyai.com/relaySite?id=39845&name=Poixe+AI&source=git)
 这个站是一个从 2024 年开始做, 在中转站里, 算是干了非常久的. 
