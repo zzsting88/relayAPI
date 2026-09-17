@@ -160,27 +160,6 @@ Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5
 
 价格也不贵，GPT 5.6 Sol是2.2折，opus4.8是3.9折，他们支持的模型很多还有很多国产模型gpt、opus、豆包、DeepSeek、千问、可灵等都支持，还是做的很不错的。
 
-### [Poixe AI](https://www.hvoyai.com/relaySite?id=39845&name=Poixe+AI&source=git)
-这个站是一个从 2024 年开始做, 在中转站里, 算是干了非常久的. 
-
-整个站的风格我很喜欢, 不是审美疲劳的New API的这种风格.
-
-支持 GPT,Claude,Gemini,DeepSeek,Doubao,Qwen ,Grok 这些模型.
-
-不同级别会员价格不一样,充一点钱就能Vip1,能八折.
-
-Opus 4.8 价格是人民币 28/140 一百万 Token.
-GPT5.6 价格是人民币 14/84 一百万 Token, GPT5.4 价格是人民币 28/168一百万 Token. (官方的东西, 真贵啊)
-
-价格是不便宜. 我试了下接口, 接口质量是相当好, 完全没掺水, 速度也快.
-网站上提供一个免费的接口,譬如 GPT4o这种.
-支持开发票.
-
-总体来说,这个适合企业客户, 质量好, 价格也在这里摆着.
-
-btw:这个站点的域名老容易打错.
-
-
 ### [RightCode](https://www.hvoyai.com/relaySite?id=39848&name=RightCode&source=git)
 **但是这个站点最近使用时,出现了较多的错误, 接口也不太稳. 暂时先保留意见**
 
