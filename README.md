@@ -159,6 +159,11 @@ Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5
 
 价格也不贵，GPT 5.6 Sol是2.2折，opus4.8是3.9折，他们支持的模型很多还有很多国产模型gpt、opus、豆包、DeepSeek、千问、可灵等都支持，还是做的很不错的。
 
+### [ModCon](https://www.hvoyai.com/relaySite?id=40106&name=ModCon&source=git)
+
+ModCon是25年11月成立的一个站, GPT系列做的还不错.
+GPT 5.6 Sol的价格是0.9, 挺稳定的.
+
 ### [RightCode](https://www.hvoyai.com/relaySite?id=39848&name=RightCode&source=git)
 **但是这个站点最近使用时,出现了较多的错误, 接口也不太稳. 暂时先保留意见**
 
@@ -185,12 +190,6 @@ Gemini系列的接口也很便宜, 大概是官网价格的1折.
 
 价格上也算是便宜的,  Opus4.8 是人民币¥4.8(进)24(出)/一百万Token.
 但是在这个质量上来说, 这个价格算很好. 接口基本不挂,基本没掺水.
-
-### [ModCon](https://www.hvoyai.com/relaySite?id=40106&name=ModCon&source=git)
-
-ModCon是25年11月成立的一个站, GPT系列做的还不错.
-GPT 5.6 Sol的价格是0.9, 挺稳定的.
-
 
 ### [aigocode.com](https://www.hvoyai.com/relaySite?id=39782&name=AlGoCode&source=git)
 aigocode是一个口碑还不错的APIKEY网站, 目前没有发现用低价模型代替高级模型的情况. 我自己用的这段时间稳定性还行. 模型方面只有Claude, GPT和 Gemini，网站支持月卡套餐. 目前最低的套餐是4周399人民币, 也就是100人民币每周, 对应的额度是110元每周. 算是不便宜的. 稳定性偶尔会有波动.
