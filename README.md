@@ -66,7 +66,7 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 ### [Modelflare](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Forigin.modelflare.dev%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=Modelflare&source=git)
 这家站有个特惠活动，单笔充值 US$20 后可解锁 GPT 特惠分组，这个组很便宜，解锁这个组后GPT‑5.6‑Sol 价格大概是¥0.51(进)3.01(出)/一百万Token，问了站点的客服说没有使用上限的限制。
 
-站点由美国 LLC 主体 Havenbyte LLC 运营，支持 GPT、Claude、Gemini、Grok 等主流模型和常用兼容协议；API Key 可以配置有序回退，调用记录可查看 Token、延迟、状态和实际成本。缓存补偿也是一个这个站的一个亮点。部分 OpenAI 价格优先、稳定和高级分组提供每日 65%、75%、85% 的缓存命中率保障；符合条件的请求如果未达到目标，平台会补偿差额，结算后可在用量看板查看。
+站点由美国 LLC 主体 Havenbyte LLC 运营，支持 GPT、Claude、Gemini、Grok 等主流模型和常用兼容协议；同时还支持多达 40 多种图片及视频模型。API Key 可以配置有序回退，调用记录可查看 Token、延迟、状态和实际成本。缓存补偿也是一个这个站的一个亮点。部分 OpenAI 价格优先、稳定和高级分组提供每日 65%、75%、85% 的缓存命中率保障；符合条件的请求如果未达到目标，平台会补偿差额，结算后可在用量看板查看。
 
 推荐小额先试一下，觉得不错的话再参加他们的充值解锁特惠分组的活动，以降低长期使用的成本。
 
