@@ -52,17 +52,6 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 
 ## 推荐的
 
-### [CUN.ai](https://www.hvoyai.com/relaySite?id=40325&name=CUN.ai&source=git)
-CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火起来热度很高。支持模型种类挺多的GPT、Claude、DeepSeek、Gemini、Qwen、GLM 等都有，当下热门的Claude Fable 5、Claude Sonnet 5、Claude Opus 系列、GPT 5.6 Sol、GLM-5.2 等都有，团队效率挺高的。
-
-他有按量计费, 也有套餐订阅，站长非常豪气，经常在hvoy的[免费兑换码](https://hvoyai.com/free-tokens/invite-codes)页面投放兑换码，一个新用户总体可以得到价值 **90人民币** 的额度。
-
-即使抢不到给hvoy用户的这个大额兑换额度，新用户直接去注册也可获得还不错的额度。
-
-（具体活动以站点为准哈）。
-
-可以趁着活动先用赠送的新人额度跑一下自己的真实场景，再决定要不要长期使用。
-
 ### [Modelflare](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Forigin.modelflare.dev%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=Modelflare&source=git)
 这家站有个特惠活动，单笔充值 US$20 后可解锁 GPT 特惠分组，这个组很便宜，解锁这个组后GPT‑5.6‑Sol 价格大概是¥0.51(进)3.01(出)/一百万Token，问了站点的客服说没有使用上限的限制。
 
@@ -107,6 +96,9 @@ CUN.ai 是今年2026年新上线的一个站点，在开发者社区中迅速火
 
 ### [ToolCode](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftoolcode.top%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=ToolCode&source=git)
 这个站是2025年12月上线的站点，主打GPT系列和Claude系列， 也支持Kimi-K3、gpt-image-2生图、Gemini和Grok等。这个站有不少企业客户，追求稳定的用户可以使用它的纯享分组，追求性价比的用户可以使用它的优惠分组，5.6-sol福利价最低能做到¥0.6(进)4.1(出)/一百万Token。综合性价比很不错。
+
+### [CUN.ai](https://www.hvoyai.com/relaySite?id=40325&name=CUN.ai&source=git)
+这个站是今年2026年新上线的一个站点，支持模型种类挺多的。他有按量计费, 也有套餐订阅，经常在hvoy的[免费兑换码](https://hvoyai.com/free-tokens/invite-codes)页面投放兑换码，具体活动金额以站点为准，可以先用赠送的新人额度跑一下自己的真实场景，再决定要不要长期使用。
 
 ### [云渡](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fyundu.lol%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=%E4%BA%91%E6%B8%A1&source=git)
 云渡目前支持 GPT、Claude 等主流模型，其中 GPT-5.6-sol 的价格为¥0.6(进)4.1(出)/一百万Token；Claude Opus 系列的价格为¥2.5(进)12.5(出)/一百万Token
