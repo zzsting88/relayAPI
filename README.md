@@ -53,8 +53,13 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 ## 推荐的
 
 ### [ToTokens](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftotokens.cc%2Fregister&name=ToTokens&source=git)
-这个站成立于2026年2月，支持Gpt、Claude、Grok、Gemini等主流模型，客服和技术支持服务效率不错。gpt-5.6-sol价格是¥0.7(进)4.5(出)/一百万Token，整体价格都不错，他们针对专用分组做了容灾与秒级故障转移，实测下来，高峰期大部分站卡的时候，他们家也还稳定的；他们还有一个科研分组，这个分组多轮测试下来，都是满智商。总体来说，性价比比较高。
-企业和中转站联系会有专属倍率优惠，10元起充可以小额测试一下试试。
+这个站成立于2026年2月，支持Gpt、Claude、Grok、Gemini等主流模型，客服和技术支持服务效率体验下来不错。
+
+模型价格都挺实惠，兼顾了性价比和稳定性，比如gpt-5.6-sol价格是¥0.7(进)4.5(出)/一百万Token，他们针对专用分组做了容灾与秒级故障转移，实测下来，高峰期大部分站卡的时候，他们家也还稳定的。
+
+他们还有一个科研分组，这个分组多轮测试下来，都是满智商。
+
+总体来说，性价比比较高。，企业和中转站联系会有专属倍率优惠，10元起充可以小额测试一下试试。
 
 ### [Modelflare](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Forigin.modelflare.dev%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=Modelflare&source=git)
 这家站有个特惠活动，单笔充值 US$20 后可解锁 GPT 特惠分组，这个组很便宜，解锁这个组后GPT‑5.6‑Sol 价格大概是¥0.51(进)3.01(出)/一百万Token，问了站点的客服说没有使用上限的限制。
