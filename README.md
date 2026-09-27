@@ -161,8 +161,11 @@ Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5
 
 ### [ModCon](https://www.hvoyai.com/relaySite?id=40106&name=ModCon&source=git)
 
-ModCon是25年11月成立的一个站, GPT系列做的还不错.
-GPT 5.6 Sol的价格是0.9, 挺稳定的.
+ModCon是2025 年11月成立的一个站点，GPT系列模型做的还不错，整体使用下来，接口表现比较稳定，日常对话、代码辅助和开发调试等场景都可以覆盖。
+
+目前GPT 6 Astra的价格是1.2元/一百万token，价格在同类站点里还算比较实惠，实际使用时响应速度和输出质量也都不错。
+
+可以先小额充值测试一下，根据自己的实际体验，再决定是否长期使用。
 
 ### [我的贾维斯](https://www.hvoyai.com/relaySite?id=40324&name=%E6%88%91%E7%9A%84%E8%B4%BE%E7%BB%B4%E6%96%AF&source=git)
 这个站是今年6月初上线的，上线后凭借价格优势和服务发展迅速。充值是1RMB=1刀，GPT 5.6 Sol 输入价格 0.5 元/百万 tokens（Pro 号池0.1倍率），Fable-5 输入价格 10 元/百万 tokens（Max 号池 1倍率）。支持开票 + 支持对公，客服响应速度快。
