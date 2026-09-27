@@ -116,10 +116,17 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 
 充值的话支持的支付方式也挺多的，可以前往他们网站看看。
 
-### [znbcode](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fznbcode.com%2Fregister&name=znbcode&source=git)
+### [ZNB.ai](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fznbcode.com%2Fregister&name=ZNB.ai&source=git)
 这个站接入的模型还挺多的，GPT、Claude、主流国产模型都有，其中GPT和Deepseek的价格挺好的性价比很高，Pro不降智号池分组gpt-6-astra价格是¥2.5(进)12.5(出)/一百万Token；gpt-5.6-sol价格是¥1.25(进)7.5(出)/一百万Token；GPT特惠组基本上是Pro不降智分组的一半价格就可以用上。DeepSeek V4/V4.1 Flash价格也合适，模型更新速度还挺快的。
 
 充值方式支持的很灵活，可以小额充值试一下。
+
+### [Top-API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapi-top.com%2Fsign-up&name=Top-API&source=git)
+Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Image 2、Nano Banana 2等图片模型，覆盖对话、编程、生图和多模态场景。
+
+价格分组设置的比较详细，可以满足不同场景的用户使用需求，GPT满血pro是0.05倍率，GPT企业级是0.07倍率，Claude满血分组是0.2倍率，Gemini满血分组是0.1倍率，生图分组是0.1倍率。平台提供多节点路由、健康检测和故障切换，日常开发或批量调用时可以根据需求选择不同模型和分组，密钥隔离、额度限制、调用日志、用量统计和成本记录等功能也比较齐全。
+
+支持对公和开具发票，现在新用户可以领取 2 元试用额度，可以先用试用额度跑一下自己的实际场景，再决定是否长期使用。
 
 ### [DuiAPI](https://www.hvoyai.com/relaySite?id=40424&name=duiapi&source=git)
 DuiAPI (对 API) 是一个主打直连官方平台的站点，支持 Qwen3.7-Max、GLM-5.2、DeepSeek-V4 等主流模型，新站很多模型5折优惠比如GLM-5.2、Qwen3.7现在都在打折，其它模型也在不同程度的打折，可以使用他的**5折特惠分组。现在新用户注册送2刀，立即到账。**
