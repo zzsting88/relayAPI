@@ -55,7 +55,7 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 ### [ToTokens](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftotokens.cc%2Fregister&name=ToTokens&source=git)
 这个站成立于2026年2月，支持Gpt、Claude、Grok、Gemini等主流模型，客服和技术支持服务效率体验下来不错。
 
-模型价格都挺实惠，兼顾了性价比和稳定性，比如gpt-5.6-sol价格是¥0.7(进)4.5(出)/一百万Token，他们针对专用分组做了容灾与秒级故障转移，实测下来，高峰期大部分站卡的时候，他们家也还稳定的。
+模型价格都挺实惠，兼顾了性价比和稳定性，比如gpt-6-astra价格是¥1.2(进)6(出)/一百万Token，gpt-6-sol价格是¥0.24(进)1.2(出)/一百万Token，gpt-5.6-sol价格是¥0.6(进)3.6(出)/一百万Token，他们针对专用分组做了容灾与秒级故障转移，实测下来，高峰期大部分站卡的时候，他们家也还稳定的。
 
 他们还有一个科研分组，这个分组多轮测试下来，都是满智商。
 
