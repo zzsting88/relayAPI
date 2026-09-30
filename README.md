@@ -140,6 +140,11 @@ Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Ima
 
 经常使用国产模型、希望降低长期使用成本的用户，可以先小额体验一下这个站。
 
+### [DragonAPI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fnewapi.dragon3api.com%2Fsign-up&name=DragonAPI&source=git)
+这个站主要面向程序员，支持 GPT、Claude 以及图片和视频模型，模型覆盖比较全面。特惠组最低为 0.06 倍率，Pro 不降智分组为 0.17 倍率，可以根据价格和模型效果选择适合自己的分组。
+
+加入他们的社群可以领取 20M Token 试用额度，建议先用赠送额度跑一下自己的实际场景，确认模型效果、接口稳定性和扣费情况后，再决定是否充值。
+
 ### [FluxionAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ffluxionai.space%2Fregister&name=FluxionAI&source=git)
 这个站模型覆盖比较全面，主流模型基本都有支持，并通过多线路动态调度提升接口可用性，模型表现、响应时间和费用也可以在后台查看。以 Opus 5.5 为例，相较 Claude 官方 API 费用最高可节省约 90%。
 
