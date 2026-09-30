@@ -123,11 +123,6 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 
 充值方式支持的很灵活，可以小额充值试一下。
 
-### [ccgo](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwww.ccgoai.club%2Fhome&name=ccgo&source=git)
-ccgo支持Codex、Claude Code、OpenClaw、Hermes、Cherry Studio 等模型。这家GPT模型支持首字慢速自动补偿，他们页面写的政策是“>10s 减免 20%，>30s 全免”；gpt-6-astra的价格是¥3.5(进)17.5(出)/一百万 Token；gpt-5.6-sol的价格是¥1.75(进)10.5(出)/一百万 Token。价格随官方实时同步，后台可查每一笔扣费明细。
-
-新用户可以先注册并小额测试，重点体验接口稳定性、响应速度和实际扣费情况后，再决定是否长期使用。
-
 ### [Top-API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapi-top.com%2Fsign-up&name=Top-API&source=git)
 Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Image 2、Nano Banana 2等图片模型，覆盖对话、编程、生图和多模态场景。
 
@@ -174,10 +169,10 @@ ModCon是2025 年11月成立的一个站点，GPT系列模型做的还不错，�
 
 可以先小额充值测试一下，根据自己的实际体验，再决定是否长期使用。
 
-### [我的贾维斯](https://www.hvoyai.com/relaySite?id=40324&name=%E6%88%91%E7%9A%84%E8%B4%BE%E7%BB%B4%E6%96%AF&source=git)
-这个站是今年6月初上线的，上线后凭借价格优势和服务发展迅速。充值是1RMB=1刀，GPT 5.6 Sol 输入价格 0.5 元/百万 tokens（Pro 号池0.1倍率），Fable-5 输入价格 10 元/百万 tokens（Max 号池 1倍率）。支持开票 + 支持对公，客服响应速度快。
+### [ccgo](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwww.ccgoai.club%2Fhome&name=ccgo&source=git)
+ccgo支持Codex、Claude Code、OpenClaw、Hermes、Cherry Studio 等模型。这家GPT模型支持首字慢速自动补偿，他们页面写的政策是“>10s 减免 20%，>30s 全免”；gpt-6-astra的价格是¥3.5(进)17.5(出)/一百万 Token；gpt-5.6-sol的价格是¥1.75(进)10.5(出)/一百万 Token。价格随官方实时同步，后台可查每一笔扣费明细。
 
-这个站有时候会在 [hvoy](https://hvoyai.com/free-tokens/invite-codes) 的免费兑换码投放兑换码，有需要的新用户可以关注一下领取体验一下。
+新用户可以先注册并小额测试，重点体验接口稳定性、响应速度和实际扣费情况后，再决定是否长期使用。
 
 ## 中性
 
