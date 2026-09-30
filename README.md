@@ -144,7 +144,7 @@ Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Ima
 
 ### 88API Token聚合平台（待补充链接和描述）
 
-### Tomi API（待补充链接和描述）
+### Yomi API（待补充链接和描述）
 
 ### [FluxionAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ffluxionai.space%2Fregister&name=FluxionAI&source=git)
 这个站模型覆盖比较全面，主流模型基本都有支持，并通过多线路动态调度提升接口可用性，模型表现、响应时间和费用也可以在后台查看。以 Opus 5.5 为例，相较 Claude 官方 API 费用最高可节省约 90%。
