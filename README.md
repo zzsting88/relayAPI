@@ -140,18 +140,10 @@ Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Ima
 
 经常使用国产模型、希望降低长期使用成本的用户，可以先小额体验一下这个站。
 
-### DragonAPI（待补充链接和描述）
-
-### 88API Token聚合平台（待补充链接和描述）
-
-### Yomi API（待补充链接和描述）
-
 ### [FluxionAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ffluxionai.space%2Fregister&name=FluxionAI&source=git)
 这个站模型覆盖比较全面，主流模型基本都有支持，并通过多线路动态调度提升接口可用性，模型表现、响应时间和费用也可以在后台查看。以 Opus 5.5 为例，相较 Claude 官方 API 费用最高可节省约 90%。
 
 可以先小额充值跑一下自己的实际场景，再根据模型效果、响应速度和费用情况决定是否继续使用。
-
-### 幻灵AI（待补充链接和描述）
 
 ### [hao.ai](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fhao.ai%2Fzh%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=hao.ai&source=git)
 这个站已支持GPT、Claude、xAI Grok 等主流模型，并兼容了 OpenAI、Anthropic 等常用协议与SDK。他们还提供模型路由、故障回退、团队管理及完整调用日志，模型价格也不贵，大概是官方参考价的 1.5 折。
