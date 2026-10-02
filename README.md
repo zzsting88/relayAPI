@@ -194,6 +194,14 @@ ccgo支持Codex、Claude Code、OpenClaw、Hermes、Cherry Studio 等模型。�
 
 新用户可以先注册并小额测试，重点体验接口稳定性、响应速度和实际扣费情况后，再决定是否长期使用。
 
+### [Galaxtec](https://galaxtec.site)
+国内腾讯云服务器部署的 AI API 中转站，稳定低延迟，统一 OpenAI 兼容格式，改一行 `base_url` 即可接入使用。
+
+支持 DeepSeek V4、Qwen（通义千问）、GLM（智谱）、MiniMax、Moonshot（月之暗面）、豆包（Doubao）等国产大模型 API，价格透明，计费清晰，无隐藏费用。
+
+**新人注册赠送免费体验额度**，可以先测试再决定充值，支持支付宝和微信支付。模型更新及时，服务稳定运行中，适合个人开发者和企业用户接入。
+
+
 ## 中性
 
 ### [Chintao AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fchintao.ai%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=Chintao%20AI&source=git)
