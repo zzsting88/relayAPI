@@ -145,6 +145,13 @@ Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Ima
 
 加入他们的社群可以领取 20M Token 试用额度，建议先用赠送额度跑一下自己的实际场景，确认模型效果、接口稳定性和扣费情况后，再决定是否充值。
 
+### [Yomi API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fconsole.yomiapi.com%2F&name=Yomi%20API&source=git)
+Yomi API主要面向 AI 编程和图片创作用户，支持 GPT、Claude、Gemini、Grok，以及 DeepSeek、GLM、Kimi 等主流模型，可接入 Claude Code、Codex、OpenClaw 等工具。
+
+生图也是他们重点投入的方向，支持 GPT Image、Gemini、Grok 图片模型，涵盖文生图、参考图编辑及部分模型的 4K 输出。除了直接调用，也支持异步生图和任务完成通知，方便接入 Agent，实现编程与图片创作的自动化工作流。
+
+此外他们还提供长期邀请返佣：受邀新用户首笔充值返现 10%，后续每笔返现 5%，收益支持提现，有兴趣的用户可以参与一下。
+
 ### [FluxionAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ffluxionai.space%2Fregister&name=FluxionAI&source=git)
 这个站模型覆盖比较全面，主流模型基本都有支持，并通过多线路动态调度提升接口可用性，模型表现、响应时间和费用也可以在后台查看。以 Opus 5.5 为例，相较 Claude 官方 API 费用最高可节省约 90%。
 
