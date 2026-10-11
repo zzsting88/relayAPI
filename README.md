@@ -71,9 +71,11 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 推荐小额先试一下，觉得不错的话再参加他们的充值解锁特惠分组的活动，以降低长期使用的成本。
 
 ### [云渡](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fyundu.lol%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=%E4%BA%91%E6%B8%A1&source=git)
-云渡目前支持 GPT、Claude 等主流模型，其中 GPT-5.6-sol 的价格为¥0.6(进)4.1(出)/一百万Token；Claude Opus 系列的价格为¥2.5(进)12.5(出)/一百万Token
+云渡主要提供 GPT、Claude 等主流模型的接入服务，模型和优质渠道更新都比较及时，整体价格也挺有竞争力的。站内设有GPT福利组，其中 GPT-6-Astra 价格¥1.2(进)6.4(出)/一百万Token。GPT Pro系列也有对应的高质量分组，模型推理和代码能力表现都值得关注，适合对模型能力有一定要求、同时又想控制使用成本的开发者。
 
-价格挺透明的，按实际 Token 用量计费，主流模型和优质渠道的更新速度也可以，适合对模型价格和使用成本有要求的开发者。
+Claude分组选择也比较丰富，提供稳定组、微注组和顶级组，可以根据自己需求灵活选择。其中 Claude Opus 5.5 性价比不错。
+
+客服和售后体验也很流畅，整体体验很好，可以小额充值跑一下真实场景试试。
 
 ### [灵算](https://www.hvoyai.com/relaySite?id=39980&name=%E7%81%B5%E7%AE%97&source=git)
 灵算这个站我自己试了一段时间后感觉还挺适合开发者直接拿来干活的，GPT 系列价格挺有优势的，目前有特惠分组，和vip不降智分组能过鹈鹕自行车测试等等特色分组。实际用下来，稳定性方面我也比较满意，接口响应比较稳。
