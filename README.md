@@ -93,7 +93,11 @@ Claude分组选择也比较丰富，提供稳定组、微注组和顶级组，�
 网站支持退款, 可以开发票.
 
 ### [ToolCode](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftoolcode.top%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=ToolCode&source=git)
-这个站是2025年12月上线的站点，主打GPT系列和Claude系列， 也支持Kimi-K3、gpt-image-2生图、Gemini和Grok等。这个站有不少企业客户，追求稳定的用户可以使用它的纯享分组，追求性价比的用户可以使用它的优惠分组，5.6-sol福利价最低能做到¥0.6(进)4.1(出)/一百万Token。综合性价比很不错。
+ToolCode是2025年12月上线的站点，主打GPT系列和Claude系列，也支持Kimi-K3、gpt-image-2生图、Gemini和Grok等。这个站有不少企业客户，追求稳定的用户可以使用它的纯享分组，追求性价比的用户可以使用它的优惠分组，gpt-6-astra福利价最低能做到¥1.2(进)6(出)/一百万Token，gpt-6.1-sol福利价最低能做到¥0.2(进)1.2(出)/一百万Token。
+
+追求卓越的客户还提供了科研不降智分组，多一个选择。
+
+站内充值现在还有优惠，企业客户还可单独联系客户获取独家优惠，均支持退款。综合性价比很不错。
 
 ### [ModCon](https://www.hvoyai.com/relaySite?id=40106&name=ModCon&source=git)
 
