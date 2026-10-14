@@ -319,3 +319,12 @@ Claude方面, 好玩的是只支持Sonnet4.6和Opus4.6, 其实也是, 与其用4
 这个站在xhs上讨论很多, 但是接口质量真的很差. 这个站反代的非常明显, 特点是按调用次数收费, 而不是常见的按量收费.
 
 还是远离骂声多的.
+
+### [ShannonAPI](https://shannonapi.xyz)
+多模型 API 网关，一个 Key 接入 Claude、GPT、Gemini、DeepSeek、Kimi、GLM、Grok、MiniMax 等主流模型。
+
+同时兼容 Anthropic Messages 原生协议（Base URL `https://shannonapi.xyz`）与 OpenAI 兼容协议（`https://shannonapi.xyz/v1`），支持 Tool Call、流式输出与 Prompt Cache；Claude Kiro 分组提供 1M 超长上下文与高缓存命中率。
+
+按量计费，充值 1:1 到账（充 ¥10 得 $10 额度），输入 / 输出 / 缓存读取分别计价，模型价格见[模型广场](https://shannonapi.xyz/model-plaza)。
+
+提供开源接入文档，覆盖 Cline、Roo-Code、cherry-studio、zotero-pdf2zh、VideoLingo、AstrBot、LangBot 等工具的配置方法与排错。
