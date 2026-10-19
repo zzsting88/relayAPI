@@ -217,23 +217,6 @@ ccgo支持Codex、Claude Code、OpenClaw、Hermes、Cherry Studio 等模型。�
 价格上也算是便宜的,  Opus4.8 是人民币¥4.8(进)24(出)/一百万Token.
 但是在这个质量上来说, 这个价格算很好. 接口基本不挂,基本没掺水.
 
-### [RightCode](https://www.hvoyai.com/relaySite?id=39848&name=RightCode&source=git)
-**但是这个站点最近使用时,出现了较多的错误, 接口也不太稳. 暂时先保留意见**
-
-就是为编程准备的, 只支持Claude, Gemini和GPT的接口.  
-
-值得推荐的渠道是 /claude 渠道, Fable-5 价格是人民币¥20(进)100(出)/一百万Token. 
-
-质量也不错, 对得起这个价格.
-
-GPT 系列还可以, GPT 5.6 Sol是人民币¥2(进)12(出)/一百万Token, 不是特别稳定, 但是我自己使用时, 发现 Token 消耗非常高.
-
-Gemini系列的接口也很便宜, 大概是官网价格的1折.
-
-有网友说有时拿别的模型掺水. 
-
-最少可以充1元 , 获得5元的额度, 先试试效果.
-
 ### [aigocode.com](https://www.hvoyai.com/relaySite?id=39782&name=AlGoCode&source=git)
 aigocode是一个口碑还不错的APIKEY网站, 目前没有发现用低价模型代替高级模型的情况. 我自己用的这段时间稳定性还行. 模型方面只有Claude, GPT和 Gemini，网站支持月卡套餐. 目前最低的套餐是4周399人民币, 也就是100人民币每周, 对应的额度是110元每周. 算是不便宜的. 稳定性偶尔会有波动.
 
