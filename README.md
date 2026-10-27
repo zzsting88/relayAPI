@@ -264,6 +264,18 @@ Claude 只支持Opus4.6, 可以按次也可以按量.
 Gemini3.1 Pro都是按次的, 每次4分钱.
 
 
+### [GoodPut AI](https://goodputai.cn/)
+GoodPut AI 是杭州词元之芯科技有限公司旗下的大模型 API 平台，主打**自建国产算力与高性价比的 GLM-5.3、MiniMax H3**。自有加速卡集群承载模型推理，自主优化推理与调度、控制服务成本；GLM-5.3 和 H3 均标注为自营算力供给。[官网](https://goodputai.cn/)可查看平台介绍与模型价格。
+
+价格是这家站的重点（以下为 2026-10-27 公开优惠价，折扣相对页面列示原价）：
+
+- **[GLM-5.3](https://goodputai.cn/models/z-ai/glm-5.3)：限时五折，输入 ¥4、输出 ¥14、缓存读取 ¥1 / 百万 Token**，页面原价分别为 ¥8、¥28、¥2。支持 1M 上下文、深度思考、工具调用和结构化输出，适合 AI 编程、Agent 与长文档处理；兼容 OpenAI / Anthropic 协议，可接入 Claude Code、Codex CLI 等工具。
+- **[MiniMax H3](https://goodputai.cn/models/minimax/h3)：限时 ¥0.09 / 秒，为页面原价 ¥0.50 / 秒的 1.8 折**。支持文生视频、图生视频和参考生视频，输出 768P，默认生成带声音的视频；按成功生成的视频时长计费，生成失败不计费。
+
+一个 API Key 可调用上述模型及平台其它模型，按人民币用量计费，支持支付宝、微信支付和企业对公转账。优惠期限与实际价格以模型详情页为准。
+
+官网：https://goodputai.cn/ · [接入文档](https://goodputai.cn/docs) · OpenAI 兼容 Base URL：`https://api.goodputai.cn/v1`。
+
 ## 不推荐的
 
 ### 闲鱼上的中转站
