@@ -2,18 +2,7 @@
 
 ## 写在前面的话
 
-
-2026-6-15  更新
-
-~~目前最好的策略, 大概率是自己买一个土区的GPT Plus, 每个月80块钱左右.~~
-
-~~方法是自己注册一个土区的apple id, 然后去mtcgame这里买一个礼品卡, 或者去闲鱼上买礼品卡,价格稍贵一点, 但是也能接受.~~
-
-土区涨价了, 只有菲区还划算点. 菲区麻烦点, 简单点就用美区或者别的区. 各个区的价格可以看这里[官方套餐](https://www.hvoyai.com/official-plans/chatgpt)
-
-有人测过, 20刀的plus大概能用出400刀的token. 如果加上各种重置, 海鲜市场上买个重置, 实际token更多, 还是很划算.
-
-具体的订阅和使用方法可以看这个github. https://github.com/hvoyai/chinaGPTClaude
+如果需要自己隐私, 可以参考订阅一个自己的AI API. https://github.com/hvoyai/chinaGPTClaude
 
 弄完之后, 挂个机场, 用codex, 不管是写电脑, 还是聊天,或者日常很多事情(譬如给照片打个水印, 写个文章)都很方便.
 基本上够自己用了.
@@ -208,14 +197,6 @@ ccgo支持Codex、Claude Code、OpenClaw、Hermes、Cherry Studio 等模型。�
 新用户可以先注册并小额测试，重点体验接口稳定性、响应速度和实际扣费情况后，再决定是否长期使用。
 
 ## 中性
-
-### [Chintao AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fchintao.ai%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=Chintao%20AI&source=git)
-很新的一个站点. 2026年3月份做的.
-
-但是我自己试了下, 接口质量很好, ~即使是逆向kiro或者aws的接口, 质量都很稳定很不错.~(现在也挂了)
-
-价格上也算是便宜的,  Opus4.8 是人民币¥4.8(进)24(出)/一百万Token.
-但是在这个质量上来说, 这个价格算很好. 接口基本不挂,基本没掺水.
 
 ### [aigocode.com](https://www.hvoyai.com/relaySite?id=39782&name=AlGoCode&source=git)
 aigocode是一个口碑还不错的APIKEY网站, 目前没有发现用低价模型代替高级模型的情况. 我自己用的这段时间稳定性还行. 模型方面只有Claude, GPT和 Gemini，网站支持月卡套餐. 目前最低的套餐是4周399人民币, 也就是100人民币每周, 对应的额度是110元每周. 算是不便宜的. 稳定性偶尔会有波动.
