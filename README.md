@@ -139,17 +139,22 @@ Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5
 
 然后这个站账号安全做的还不错，支持2fa双因素验证，建议用的时候可以开启一下，尤其大额充值的用户。
 
+### [悟空API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwkapi.pro%2Fregister&name=%E6%82%9F%E7%A9%BAAPI&source=git)
+支持gpt、claude主流模型，opus5.5-claude-max价格是¥5.2(进)26(出)/一百万Token；分组分的挺细的有kiro、max、企业等分组。
+
+充值的话是1元充站内1刀额度，可以小额充值先测试下再决定要不要长期用。
+
+### [CheapAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fcheapai.info%2Fregister&name=CheapAI&source=git)
+这个站是今年的一个新站，主打GPT和Claude模型，价格的话就像他的名字一样追求低价，追求性价比的可以用他的特惠分组折扣倍率很好，追求稳定的话可以选择他的稳定分组或者Pro分组，他们也有官key分组，可以满足不同使用需求的用户。
+
+充值的话支持的支付方式也挺多的，可以前往他们网站看看。
+
 ### [Top-API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapi-top.com%2Fsign-up&name=Top-API&source=git)
 Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Image 2、Nano Banana 2等图片模型，覆盖对话、编程、生图和多模态场景。
 
 价格分组设置的比较详细，可以满足不同场景的用户使用需求，GPT满血pro是0.05倍率，GPT企业级是0.07倍率，Claude满血分组是0.2倍率，Gemini满血分组是0.1倍率，生图分组是0.1倍率。平台提供多节点路由、健康检测和故障切换，日常开发或批量调用时可以根据需求选择不同模型和分组，密钥隔离、额度限制、调用日志、用量统计和成本记录等功能也比较齐全。
 
 支持对公和开具发票，现在新用户可以领取 2 元试用额度，可以先用试用额度跑一下自己的实际场景，再决定是否长期使用。
-
-### [CheapAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fcheapai.info%2Fregister&name=CheapAI&source=git)
-这个站是今年的一个新站，主打GPT和Claude模型，价格的话就像他的名字一样追求低价，追求性价比的可以用他的特惠分组折扣倍率很好，追求稳定的话可以选择他的稳定分组或者Pro分组，他们也有官key分组，可以满足不同使用需求的用户。
-
-充值的话支持的支付方式也挺多的，可以前往他们网站看看。
 
 ### [天天中转站](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapitiantian.com%2Fregister&name=%E5%A4%A9%E5%A4%A9%E4%B8%AD%E8%BD%AC%E7%AB%99&source=git)
 这个站专注国产大模型，DeepSeek、GLM、Kimi、HY、MiniMax 等模型都有接入，目前国产模型全场 2 折。一个 Key 就可以在站内使用多个主流国产模型，适合日常 AI 编程、智能体任务和应用开发。
