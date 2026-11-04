@@ -66,13 +66,6 @@ Claude分组选择也比较丰富，提供稳定组、微注组和顶级组，�
 
 客服和售后体验也很流畅，整体体验很好，可以小额充值跑一下真实场景试试。
 
-### [灵算](https://www.hvoyai.com/relaySite?id=39980&name=%E7%81%B5%E7%AE%97&source=git)
-灵算这个站我自己试了一段时间后感觉还挺适合开发者直接拿来干活的，GPT 系列价格挺有优势的，目前有特惠分组，和vip不降智分组能过鹈鹕自行车测试等等特色分组。实际用下来，稳定性方面我也比较满意，接口响应比较稳。
-
-它的gpt-image-2.5 生图，1K 图 1 毛一张，拿来做文章配图、产品图草稿、封面图或者一些轻量设计需求，成本很低。
-
-如果想找一个便宜且稳定性也不错的GPT站，可以试试这家。
-
 ### [SudoCode](https://www.hvoyai.com/relaySite?id=40095&name=SudoCode&source=git)
 看名字就知道是一个专门编程的站点.
 这是一个 2026 年刚成立的站, 站点对于模型支持非常快速. 新的模型基本第一时间就能上线.
@@ -80,6 +73,93 @@ Claude分组选择也比较丰富，提供稳定组、微注组和顶级组，�
 模型方面, 目前gpt5.6 sol价格是人民币¥1(进)6(出)/一百万Token,  Opus5的满血 CC Max 渠道价格是人民币¥7(进)35(出)/一百万Token, 这两个的价格都还不错.
 
 网站支持退款, 可以开发票.
+
+### [灵算](https://www.hvoyai.com/relaySite?id=39980&name=%E7%81%B5%E7%AE%97&source=git)
+灵算这个站我自己试了一段时间后感觉还挺适合开发者直接拿来干活的，GPT 系列价格挺有优势的，目前有特惠分组，和vip不降智分组能过鹈鹕自行车测试等等特色分组。实际用下来，稳定性方面我也比较满意，接口响应比较稳。
+
+它的gpt-image-2.5 生图，1K 图 1 毛一张，拿来做文章配图、产品图草稿、封面图或者一些轻量设计需求，成本很低。
+
+如果想找一个便宜且稳定性也不错的GPT站，可以试试这家。
+
+### [Portdan AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fportdan.com%2Fregister&name=Portdan%20AI&source=git)
+这个站活动比较多，目前有注册送额度、签到领额度的活动，新用户可以先去他们网站上领取些活动的免费额度，跑一跑自己的实际使用场景，再决定是否继续使用。除了注册和签到活动，站内也会不定期发放额外福利，推出实用的低价资源和特惠活动。
+
+售后也不错，使用过程中的问题反馈与后续跟进都体验不错。
+
+对于希望兼顾价格与使用体验的用户，可以先从赠送额度开始体验一下这个站。
+
+### [EiRouter](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwww.cc-max.cc%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=EiRouter&source=git)
+这个站是2026年6月上线的，使用起来体验不错，接口兼容OpenAI / Anthropic，现有 SDK 不用重写。需要注意的是他们调用走 eirouter.ai，托管走 cloud.eirouter.ai，两个入口不要混。
+
+新用户可以先联系他们客服领体验额度，建议先用自己的真实项目跑通，再决定充不充。支付支持微信、支付宝、对公转账，可开国内发票，也支持退款。
+
+适合先小额试、确认账单和对接都顺，再决定是否长期用。
+
+### [ZNB.ai](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fznbcode.com%2Fregister&name=ZNB.ai&source=git)
+这个站接入的模型还挺多的，GPT、Claude、主流国产模型都有，其中GPT和Deepseek的价格挺好的性价比很高，Pro不降智号池分组gpt-6-astra价格是¥2.5(进)12.5(出)/一百万Token；gpt-5.6-sol价格是¥1.25(进)7.5(出)/一百万Token；GPT特惠组基本上是Pro不降智分组的一半价格就可以用上。DeepSeek V4/V4.1 Flash价格也合适，模型更新速度还挺快的。
+
+充值方式支持的很灵活，可以小额充值试一下。
+
+### [智惠API](https://www.hvoyai.com/relaySite?id=40026&name=%E6%99%BA%E6%83%A0API&source=git)
+这个站是2026年新开的一个站点，模型比较全，支持 Claude、GPT、Gemini、Grok 等大模型。
+
+Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5的价格是 ¥13(进)65(出)/一百万Token。Kiro逆向是¥1(进)5(出)/一百万Token的超低价，GPT 5.6 Sol模型价格是 ¥0.75(进)4.5(出)/一百万Token。
+
+该站最近推出了会员等级计划，根据不同会员等级每次充值享受不同的额外赠送比例，用于奖励忠诚会员，站内消费越久，权益越高。
+
+### [DragonAPI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fnewapi.dragon3api.com%2Fsign-up&name=DragonAPI&source=git)
+这个站主要面向程序员，支持 GPT、Claude 以及图片和视频模型，模型覆盖比较全面。特惠组最低为 0.06 倍率，Pro 不降智分组为 0.17 倍率，可以根据价格和模型效果选择适合自己的分组。
+
+加入他们的社群可以领取 20M Token 试用额度，建议先用赠送额度跑一下自己的实际场景，确认模型效果、接口稳定性和扣费情况后，再决定是否充值。
+
+### [8sToken](https://www.hvoyai.com/relaySite?target=https%3A%2F%2F8stoken.com%2Fsign-up&name=8sToken&source=git)
+这个站比较看重模型原生质量与调用稳定性，强调拒绝降配缩水、多层套壳和公网限速，主打满血官方模型，并搭配企业级私有高速线路与全链路 API 治理。
+
+在意模型原生效果、响应速度和高峰期稳定性的用户，可以先注册并小额测试一下，重点观察实际调用质量、延迟和并发体验，再决定是否长期使用。
+
+### [XycAi(星道智能)](https://www.hvoyai.com/relaySite?id=40216&name=XycAi%28%E6%98%9F%E9%81%93%E6%99%BA%E8%83%BD%29&source=git)
+这个站号称是有正规大模型备案号和一些正规出海资质的合规对外企业，说是可以解决企业软件安全审查中上家数据合规性问题以及税务问题（有这方面需求的小伙伴请自行和站点核实哈）。
+
+价格也不贵，GPT 5.6 Sol是2.2折，opus4.8是3.9折，他们支持的模型很多还有很多国产模型gpt、opus、豆包、DeepSeek、千问、可灵等都支持，还是做的很不错的。
+
+### [Top-API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapi-top.com%2Fsign-up&name=Top-API&source=git)
+Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Image 2、Nano Banana 2等图片模型，覆盖对话、编程、生图和多模态场景。
+
+价格分组设置的比较详细，可以满足不同场景的用户使用需求，GPT满血pro是0.05倍率，GPT企业级是0.07倍率，Claude满血分组是0.2倍率，Gemini满血分组是0.1倍率，生图分组是0.1倍率。平台提供多节点路由、健康检测和故障切换，日常开发或批量调用时可以根据需求选择不同模型和分组，密钥隔离、额度限制、调用日志、用量统计和成本记录等功能也比较齐全。
+
+支持对公和开具发票，现在新用户可以领取 2 元试用额度，可以先用试用额度跑一下自己的实际场景，再决定是否长期使用。
+
+### [CheapAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fcheapai.info%2Fregister&name=CheapAI&source=git)
+这个站是今年的一个新站，主打GPT和Claude模型，价格的话就像他的名字一样追求低价，追求性价比的可以用他的特惠分组折扣倍率很好，追求稳定的话可以选择他的稳定分组或者Pro分组，他们也有官key分组，可以满足不同使用需求的用户。
+
+充值的话支持的支付方式也挺多的，可以前往他们网站看看。
+
+### [天天中转站](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapitiantian.com%2Fregister&name=%E5%A4%A9%E5%A4%A9%E4%B8%AD%E8%BD%AC%E7%AB%99&source=git)
+这个站专注国产大模型，DeepSeek、GLM、Kimi、HY、MiniMax 等模型都有接入，目前国产模型全场 2 折。一个 Key 就可以在站内使用多个主流国产模型，适合日常 AI 编程、智能体任务和应用开发。
+
+经常使用国产模型、希望降低长期使用成本的用户，可以先小额体验一下这个站。
+
+### [9527code](https://www.hvoyai.com/relaySite?id=39937&name=9527code&source=git)
+9527code是2025年12月就成立的一家站点，稳定性和真实性方面的口碑不错，号称是若发现模型降级、套壳或掺水，经核实，假一赔十。去试了一下售后流程，客服响应很快，用起来比较省心。
+
+价格的话，除了按量计费，还提供月套餐，月套餐倍率更低；他们也经常举办用户互动方面活动，还时常给新/老用户推出活动专属福利、特惠分组、赠送额度，对于追求稳定性并计划长期使用的用户会更加划算。可以关注一下这家站的公告和平台活动，赶上的时候还挺合适的。
+
+### [Yomi API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fconsole.yomiapi.com%2F&name=Yomi%20API&source=git)
+Yomi API主要面向 AI 编程和图片创作用户，支持 GPT、Claude、Gemini、Grok，以及 DeepSeek、GLM、Kimi 等主流模型，可接入 Claude Code、Codex、OpenClaw 等工具。
+
+生图也是他们重点投入的方向，支持 GPT Image、Gemini、Grok 图片模型，涵盖文生图、参考图编辑及部分模型的 4K 输出。除了直接调用，也支持异步生图和任务完成通知，方便接入 Agent，实现编程与图片创作的自动化工作流。
+
+此外他们还提供长期邀请返佣：受邀新用户首笔充值返现 10%，后续每笔返现 5%，收益支持提现，有兴趣的用户可以参与一下。
+
+### [hao.ai](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fhao.ai%2Fzh%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=hao.ai&source=git)
+这个站已支持GPT、Claude、xAI Grok 等主流模型，并兼容了 OpenAI、Anthropic 等常用协议与SDK。他们还提供模型路由、故障回退、团队管理及完整调用日志，模型价格也不贵，大概是官方参考价的 1.5 折。
+
+发展很快，用户体量挺大的，可以小额充值试一下。
+
+### [ccgo](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwww.ccgoai.club%2Fhome&name=ccgo&source=git)
+ccgo支持Codex、Claude Code、OpenClaw、Hermes、Cherry Studio 等模型。这家GPT模型支持首字慢速自动补偿，他们页面写的政策是“>10s 减免 20%，>30s 全免”；gpt-6-astra的价格是¥3.5(进)17.5(出)/一百万 Token；gpt-5.6-sol的价格是¥1.75(进)10.5(出)/一百万 Token。价格随官方实时同步，后台可查每一笔扣费明细。
+
+新用户可以先注册并小额测试，重点体验接口稳定性、响应速度和实际扣费情况后，再决定是否长期使用。
 
 ### [ToolCode](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftoolcode.top%2Fregister%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=ToolCode&source=git)
 ToolCode是2025年12月上线的站点，主打GPT系列和Claude系列，也支持Kimi-K3、gpt-image-2生图、Gemini和Grok等。这个站有不少企业客户，追求稳定的用户可以使用它的纯享分组，追求性价比的用户可以使用它的优惠分组，gpt-6-astra福利价最低能做到¥1.2(进)6(出)/一百万Token，gpt-6.1-sol福利价最低能做到¥0.2(进)1.2(出)/一百万Token。
@@ -96,105 +176,13 @@ ModCon是2025 年11月成立的一个站点，GPT系列模型做的还不错，�
 
 可以先小额充值测试一下，根据自己的实际体验，再决定是否长期使用。
 
-### [Portdan AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fportdan.com%2Fregister&name=Portdan%20AI&source=git)
-这个站活动比较多，目前有注册送额度、签到领额度的活动，新用户可以先去他们网站上领取些活动的免费额度，跑一跑自己的实际使用场景，再决定是否继续使用。除了注册和签到活动，站内也会不定期发放额外福利，推出实用的低价资源和特惠活动。
-
-售后也不错，使用过程中的问题反馈与后续跟进都体验不错。
-
-对于希望兼顾价格与使用体验的用户，可以先从赠送额度开始体验一下这个站。
-
 ### [CUN.ai](https://www.hvoyai.com/relaySite?id=40325&name=CUN.ai&source=git)
 这个站是今年2026年新上线的一个站点，支持模型种类挺多的。他有按量计费, 也有套餐订阅，经常在hvoy的[免费兑换码](https://hvoyai.com/free-tokens/invite-codes)页面投放兑换码，具体活动金额以站点为准，可以先用赠送的新人额度跑一下自己的真实场景，再决定要不要长期使用。
-
-### [Top-API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapi-top.com%2Fsign-up&name=Top-API&source=git)
-Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Image 2、Nano Banana 2等图片模型，覆盖对话、编程、生图和多模态场景。
-
-价格分组设置的比较详细，可以满足不同场景的用户使用需求，GPT满血pro是0.05倍率，GPT企业级是0.07倍率，Claude满血分组是0.2倍率，Gemini满血分组是0.1倍率，生图分组是0.1倍率。平台提供多节点路由、健康检测和故障切换，日常开发或批量调用时可以根据需求选择不同模型和分组，密钥隔离、额度限制、调用日志、用量统计和成本记录等功能也比较齐全。
-
-支持对公和开具发票，现在新用户可以领取 2 元试用额度，可以先用试用额度跑一下自己的实际场景，再决定是否长期使用。
-
-### [ZNB.ai](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fznbcode.com%2Fregister&name=ZNB.ai&source=git)
-这个站接入的模型还挺多的，GPT、Claude、主流国产模型都有，其中GPT和Deepseek的价格挺好的性价比很高，Pro不降智号池分组gpt-6-astra价格是¥2.5(进)12.5(出)/一百万Token；gpt-5.6-sol价格是¥1.25(进)7.5(出)/一百万Token；GPT特惠组基本上是Pro不降智分组的一半价格就可以用上。DeepSeek V4/V4.1 Flash价格也合适，模型更新速度还挺快的。
-
-充值方式支持的很灵活，可以小额充值试一下。
-
-### [EiRouter](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwww.cc-max.cc%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=EiRouter&source=git)
-这个站是2026年6月上线的，使用起来体验不错，接口兼容OpenAI / Anthropic，现有 SDK 不用重写。需要注意的是他们调用走 eirouter.ai，托管走 cloud.eirouter.ai，两个入口不要混。
-
-新用户可以先联系他们客服领体验额度，建议先用自己的真实项目跑通，再决定充不充。支付支持微信、支付宝、对公转账，可开国内发票，也支持退款。
-
-适合先小额试、确认账单和对接都顺，再决定是否长期用。
-
-### [8sToken](https://www.hvoyai.com/relaySite?target=https%3A%2F%2F8stoken.com%2Fsign-up&name=8sToken&source=git)
-这个站比较看重模型原生质量与调用稳定性，强调拒绝降配缩水、多层套壳和公网限速，主打满血官方模型，并搭配企业级私有高速线路与全链路 API 治理。
-
-在意模型原生效果、响应速度和高峰期稳定性的用户，可以先注册并小额测试一下，重点观察实际调用质量、延迟和并发体验，再决定是否长期使用。
-
-### [天天中转站](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapitiantian.com%2Fregister&name=%E5%A4%A9%E5%A4%A9%E4%B8%AD%E8%BD%AC%E7%AB%99&source=git)
-这个站专注国产大模型，DeepSeek、GLM、Kimi、HY、MiniMax 等模型都有接入，目前国产模型全场 2 折。一个 Key 就可以在站内使用多个主流国产模型，适合日常 AI 编程、智能体任务和应用开发。
-
-经常使用国产模型、希望降低长期使用成本的用户，可以先小额体验一下这个站。
-
-### [DragonAPI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fnewapi.dragon3api.com%2Fsign-up&name=DragonAPI&source=git)
-这个站主要面向程序员，支持 GPT、Claude 以及图片和视频模型，模型覆盖比较全面。特惠组最低为 0.06 倍率，Pro 不降智分组为 0.17 倍率，可以根据价格和模型效果选择适合自己的分组。
-
-加入他们的社群可以领取 20M Token 试用额度，建议先用赠送额度跑一下自己的实际场景，确认模型效果、接口稳定性和扣费情况后，再决定是否充值。
-
-### [Yomi API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fconsole.yomiapi.com%2F&name=Yomi%20API&source=git)
-Yomi API主要面向 AI 编程和图片创作用户，支持 GPT、Claude、Gemini、Grok，以及 DeepSeek、GLM、Kimi 等主流模型，可接入 Claude Code、Codex、OpenClaw 等工具。
-
-生图也是他们重点投入的方向，支持 GPT Image、Gemini、Grok 图片模型，涵盖文生图、参考图编辑及部分模型的 4K 输出。除了直接调用，也支持异步生图和任务完成通知，方便接入 Agent，实现编程与图片创作的自动化工作流。
-
-此外他们还提供长期邀请返佣：受邀新用户首笔充值返现 10%，后续每笔返现 5%，收益支持提现，有兴趣的用户可以参与一下。
-
-### [FluxionAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ffluxionai.space%2Fregister&name=FluxionAI&source=git)
-这个站模型覆盖比较全面，主流模型基本都有支持，并通过多线路动态调度提升接口可用性，模型表现、响应时间和费用也可以在后台查看。以 Opus 5.5 为例，相较 Claude 官方 API 费用最高可节省约 90%。
-
-可以先小额充值跑一下自己的实际场景，再根据模型效果、响应速度和费用情况决定是否继续使用。
-
-### [hao.ai](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fhao.ai%2Fzh%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=hao.ai&source=git)
-这个站已支持GPT、Claude、xAI Grok 等主流模型，并兼容了 OpenAI、Anthropic 等常用协议与SDK。他们还提供模型路由、故障回退、团队管理及完整调用日志，模型价格也不贵，大概是官方参考价的 1.5 折。
-
-发展很快，用户体量挺大的，可以小额充值试一下。
-
-### [9527code](https://www.hvoyai.com/relaySite?id=39937&name=9527code&source=git)
-9527code是2025年12月就成立的一家站点，稳定性和真实性方面的口碑不错，号称是若发现模型降级、套壳或掺水，经核实，假一赔十。去试了一下售后流程，客服响应很快，用起来比较省心。
-
-价格的话，除了按量计费，还提供月套餐，月套餐倍率更低；他们也经常举办用户互动方面活动，还时常给新/老用户推出活动专属福利、特惠分组、赠送额度，对于追求稳定性并计划长期使用的用户会更加划算。可以关注一下这家站的公告和平台活动，赶上的时候还挺合适的。
-
-### [CheapAI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fcheapai.info%2Fregister&name=CheapAI&source=git)
-这个站是今年的一个新站，主打GPT和Claude模型，价格的话就像他的名字一样追求低价，追求性价比的可以用他的特惠分组折扣倍率很好，追求稳定的话可以选择他的稳定分组或者Pro分组，他们也有官key分组，可以满足不同使用需求的用户。
-
-充值的话支持的支付方式也挺多的，可以前往他们网站看看。
-
-### [DuiAPI](https://www.hvoyai.com/relaySite?id=40424&name=duiapi&source=git)
-DuiAPI (对 API) 是一个主打直连官方平台的站点，支持 Qwen3.7-Max、GLM-5.2、DeepSeek-V4 等主流模型，新站很多模型5折优惠比如GLM-5.2、Qwen3.7现在都在打折，其它模型也在不同程度的打折，可以使用他的**5折特惠分组。现在新用户注册送2刀，立即到账。**
-
-还有一点他计费比较清晰，调用记录也可以追溯，对需要做成本核算、接口测试、产品原型验证或者企业内部工具集成的使用者会比较友好。
-
-整体看，这个站更偏规范化和可管理性，不是单纯卷最低价的路线。如果你比较在意模型来源、调用记录和账单透明度，可以跑一下自己的真实场景试试看。
-
-### [智惠API](https://www.hvoyai.com/relaySite?id=40026&name=%E6%99%BA%E6%83%A0API&source=git)
-这个站是2026年新开的一个站点，模型比较全，支持 Claude、GPT、Gemini、Grok 等大模型。
-
-Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5的价格是 ¥13(进)65(出)/一百万Token。Kiro逆向是¥1(进)5(出)/一百万Token的超低价，GPT 5.6 Sol模型价格是 ¥0.75(进)4.5(出)/一百万Token。
-
-该站最近推出了会员等级计划，根据不同会员等级每次充值享受不同的额外赠送比例，用于奖励忠诚会员，站内消费越久，权益越高。
-
-### [XycAi(星道智能)](https://www.hvoyai.com/relaySite?id=40216&name=XycAi%28%E6%98%9F%E9%81%93%E6%99%BA%E8%83%BD%29&source=git)
-这个站号称是有正规大模型备案号和一些正规出海资质的合规对外企业，说是可以解决企业软件安全审查中上家数据合规性问题以及税务问题（有这方面需求的小伙伴请自行和站点核实哈）。
-
-价格也不贵，GPT 5.6 Sol是2.2折，opus4.8是3.9折，他们支持的模型很多还有很多国产模型gpt、opus、豆包、DeepSeek、千问、可灵等都支持，还是做的很不错的。
 
 ### [YKH.AI](https://www.hvoyai.com/relaySite?id=39975&name=YKH.AI&source=git)
 我比较喜欢这个站的一点是没有很多营销词，如果你想找一个界面干净、方便快速接入的 AI API 站点可以看看这个。追求性价比的话可以选 lite 分组算下来¥0.25/一百万Token，追求稳定性高的话可以选纯pro号池是 ¥0.5/一百万Token，便宜的和稳定的全都有，可以满足不同用户的需求。
 
 这个站的站长说YKH.AI 这个名字是 You Know How 的缩写，想对用户表达他的站要把“问题怎么问、上下文怎么整理、下一步怎么走”这件事做得更清楚，是个非常有心的站长哈哈，可以试试看。
-
-### [ccgo](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwww.ccgoai.club%2Fhome&name=ccgo&source=git)
-ccgo支持Codex、Claude Code、OpenClaw、Hermes、Cherry Studio 等模型。这家GPT模型支持首字慢速自动补偿，他们页面写的政策是“>10s 减免 20%，>30s 全免”；gpt-6-astra的价格是¥3.5(进)17.5(出)/一百万 Token；gpt-5.6-sol的价格是¥1.75(进)10.5(出)/一百万 Token。价格随官方实时同步，后台可查每一笔扣费明细。
-
-新用户可以先注册并小额测试，重点体验接口稳定性、响应速度和实际扣费情况后，再决定是否长期使用。
 
 ## 中性
 
