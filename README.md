@@ -177,7 +177,7 @@ ModCon是2025 年11月成立的一个站点，GPT系列模型做的还不错，�
 可以先小额充值测试一下，根据自己的实际体验，再决定是否长期使用。
 
 ### [CUN.ai](https://www.hvoyai.com/relaySite?id=40325&name=CUN.ai&source=git)
-这个站是今年2026年新上线的一个站点，支持模型种类挺多的。他有按量计费, 也有套餐订阅，经常在hvoy的[免费兑换码](https://hvoyai.com/free-tokens/invite-codes)页面投放兑换码，具体活动金额以站点为准，可以先用赠送的新人额度跑一下自己的真实场景，再决定要不要长期使用。
+这个站是今年2026年新上线的一个站点，支持模型种类挺多的。他有按量计费, 也有套餐订阅，之前经常在hvoy的[免费兑换码](https://hvoyai.com/free-tokens/invite-codes)页面投放大额兑换码，由于站点活动会业务运营策略变化，想参加活动的用户请前往活动页面自行筛选和领取哈。
 
 ### [YKH.AI](https://www.hvoyai.com/relaySite?id=39975&name=YKH.AI&source=git)
 我比较喜欢这个站的一点是没有很多营销词，如果你想找一个界面干净、方便快速接入的 AI API 站点可以看看这个。追求性价比的话可以选 lite 分组算下来¥0.25/一百万Token，追求稳定性高的话可以选纯pro号池是 ¥0.5/一百万Token，便宜的和稳定的全都有，可以满足不同用户的需求。
