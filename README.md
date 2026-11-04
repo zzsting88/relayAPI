@@ -74,6 +74,11 @@ Claude分组选择也比较丰富，提供稳定组、微注组和顶级组，�
 
 网站支持退款, 可以开发票.
 
+### [88API Token聚合平台](https://www.hvoyai.com/relaySite?target=https%3A%2F%2F88api.ai%2Fsign-up%3Faff%3DPO46&name=88API%20Token%E8%81%9A%E5%90%88%E5%B9%B3%E5%8F%B0&source=git)
+88API 由在香港依法注册的企业【88 DIGITAL TECHNOLOGY LIMITED】运营。这家的各种模型都很齐全，上新的速度也比较快，代码模型、视频模型覆盖的新老型号和渠道都挺全的，想用这家的应该都可以找到自己需要的型号。
+
+需要用多模型、又想更加方便不跑多家中转站的用户，可以去他家看看。
+
 ### [灵算](https://www.hvoyai.com/relaySite?id=39980&name=%E7%81%B5%E7%AE%97&source=git)
 灵算这个站我自己试了一段时间后感觉还挺适合开发者直接拿来干活的，GPT 系列价格挺有优势的，目前有特惠分组，和vip不降智分组能过鹈鹕自行车测试等等特色分组。实际用下来，稳定性方面我也比较满意，接口响应比较稳。
 
@@ -107,6 +112,13 @@ Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5
 
 该站最近推出了会员等级计划，根据不同会员等级每次充值享受不同的额外赠送比例，用于奖励忠诚会员，站内消费越久，权益越高。
 
+### [吉吉不降智AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwww.jiji.cc%2Fregister&name=%E5%90%89%E5%90%89%E4%B8%8D%E9%99%8D%E6%99%BAAI&source=git)
+这家号称是主打全系列不降智，然后客服体验比较好，从选分组、配工具，客服都可以一对一指导。
+
+他们家支持对公付款，需要发票的用户比较方便，他们家支持免费自助开票，整体使用流程已经比较自动化，会很流畅。
+
+有这方面需求的用户可以先小额充值试试。
+
 ### [DragonAPI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fnewapi.dragon3api.com%2Fsign-up&name=DragonAPI&source=git)
 这个站主要面向程序员，支持 GPT、Claude 以及图片和视频模型，模型覆盖比较全面。特惠组最低为 0.06 倍率，Pro 不降智分组为 0.17 倍率，可以根据价格和模型效果选择适合自己的分组。
 
@@ -121,6 +133,11 @@ Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5
 这个站号称是有正规大模型备案号和一些正规出海资质的合规对外企业，说是可以解决企业软件安全审查中上家数据合规性问题以及税务问题（有这方面需求的小伙伴请自行和站点核实哈）。
 
 价格也不贵，GPT 5.6 Sol是2.2折，opus4.8是3.9折，他们支持的模型很多还有很多国产模型gpt、opus、豆包、DeepSeek、千问、可灵等都支持，还是做的很不错的。
+
+### [幻灵AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapi.huanling.icu%2Fregister&name=%E5%B9%BB%E7%81%B5AI&source=git)
+这个站现在有个新用户2刀试用福利，说是加他们qq群找群主可以领取，有兴趣的用户可以加他们的群了解一下，由于站点活动变化比较快，具体的活动请以站点为准哈。
+
+然后这个站账号安全做的还不错，支持2fa双因素验证，建议用的时候可以开启一下，尤其大额充值的用户。
 
 ### [Top-API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapi-top.com%2Fsign-up&name=Top-API&source=git)
 Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Image 2、Nano Banana 2等图片模型，覆盖对话、编程、生图和多模态场景。
