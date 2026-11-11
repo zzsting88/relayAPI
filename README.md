@@ -152,6 +152,11 @@ Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5
 
 充值的话支持的支付方式也挺多的，可以前往他们网站看看。
 
+### [Buytoken](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fbuytoken.work%2Fsign-up&name=Buytoken&source=git)
+Buytoken成立于2025年，是由美国GIMMITK INC为主体来运营的，之前重点服务于企业，从2026年开始进入C端市场，提供 Claude、GPT、Gemini、DeepSeek、GLM、Kimi 等主流模型的 API接入，可以对公开票，支持退款，响应也很及时。
+
+稳定性方面做的还是比较完善的，当前该站注册可提供1元试用金，可以先试用下再决定是否充值。
+
 ### [Top-API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapi-top.com%2Fsign-up&name=Top-API&source=git)
 Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Image 2、Nano Banana 2等图片模型，覆盖对话、编程、生图和多模态场景。
 
