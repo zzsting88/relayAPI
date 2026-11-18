@@ -62,6 +62,13 @@ Claude分组选择也比较丰富，提供稳定组、微注组和顶级组，�
 
 客服和售后体验也很流畅，整体体验很好，可以小额充值跑一下真实场景试试。
 
+### [Modelflare](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Forigin.modelflare.dev%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=Modelflare&source=git)
+这家站有个特惠活动，单笔充值 US$20 后可解锁 GPT 特惠分组，这个组很便宜，解锁这个组后GPT‑5.6‑Sol 价格大概是¥0.51(进)3.01(出)/一百万Token，问了站点的客服说没有使用上限的限制。
+
+站点由美国 LLC 主体 Havenbyte LLC 运营，支持 GPT、Claude、Gemini、Grok 等主流模型和常用兼容协议；同时还支持多达 40 多种图片及视频模型。API Key 可以配置有序回退，调用记录可查看 Token、延迟、状态和实际成本。缓存补偿也是一个这个站的一个亮点。部分 OpenAI 价格优先、稳定和高级分组提供每日 65%、75%、85% 的缓存命中率保障；符合条件的请求如果未达到目标，平台会补偿差额，结算后可在用量看板查看。
+
+推荐小额先试一下，觉得不错的话再参加他们的充值解锁特惠分组的活动，以降低长期使用的成本。
+
 ### [SudoCode](https://www.hvoyai.com/relaySite?id=40095&name=SudoCode&source=git)
 看名字就知道是一个专门编程的站点.
 这是一个 2026 年刚成立的站, 站点对于模型支持非常快速. 新的模型基本第一时间就能上线.
@@ -81,13 +88,6 @@ Claude分组选择也比较丰富，提供稳定组、微注组和顶级组，�
 它的gpt-image-2.5 生图，1K 图 1 毛一张，拿来做文章配图、产品图草稿、封面图或者一些轻量设计需求，成本很低。
 
 如果想找一个便宜且稳定性也不错的GPT站，可以试试这家。
-
-### [Modelflare](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Forigin.modelflare.dev%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=Modelflare&source=git)
-这家站有个特惠活动，单笔充值 US$20 后可解锁 GPT 特惠分组，这个组很便宜，解锁这个组后GPT‑5.6‑Sol 价格大概是¥0.51(进)3.01(出)/一百万Token，问了站点的客服说没有使用上限的限制。
-
-站点由美国 LLC 主体 Havenbyte LLC 运营，支持 GPT、Claude、Gemini、Grok 等主流模型和常用兼容协议；同时还支持多达 40 多种图片及视频模型。API Key 可以配置有序回退，调用记录可查看 Token、延迟、状态和实际成本。缓存补偿也是一个这个站的一个亮点。部分 OpenAI 价格优先、稳定和高级分组提供每日 65%、75%、85% 的缓存命中率保障；符合条件的请求如果未达到目标，平台会补偿差额，结算后可在用量看板查看。
-
-推荐小额先试一下，觉得不错的话再参加他们的充值解锁特惠分组的活动，以降低长期使用的成本。
 
 ### [Portdan AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fportdan.com%2Fregister&name=Portdan%20AI&source=git)
 这个站活动比较多，目前有注册送额度、签到领额度的活动，新用户可以先去他们网站上领取些活动的免费额度，跑一跑自己的实际使用场景，再决定是否继续使用。除了注册和签到活动，站内也会不定期发放额外福利，推出实用的低价资源和特惠活动。
