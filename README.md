@@ -45,15 +45,13 @@ btw: 希望能加入评测的中转站站长, 请来[contactUs](https://www.hvoy
 ## 推荐的
 
 ### [ToTokens](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Ftotokens.cc%2Fregister&name=ToTokens&source=git)
-这个站成立于2026年2月，支持Gpt、Claude、Grok、Gemini等主流模型，客服和技术支持服务效率体验下来不错。
+这个站成立于2026年2月，支持Gpt、Claude、Grok、Gemini等主流模型，客服和技术支持服务效率体验下来都很不错。
 
-模型价格都挺实惠，兼顾了性价比和稳定性，比如gpt-6-astra价格是¥1.2(进)6(出)/一百万Token，gpt-6-sol价格是¥0.24(进)1.2(出)/一百万Token，gpt-5.6-sol价格是¥0.6(进)3.6(出)/一百万Token，他们针对专用分组做了容灾与秒级故障转移，实测下来，高峰期大部分站卡的时候，他们家也还稳定的。
+模型价格都挺实惠，兼顾了性价比和稳定性，opus5.5价格是¥1.6(进)8(出)/一百万Token，gpt-6-astra价格是¥1.2(进)6(出)/一百万Token，gpt-6-sol价格是¥0.24(进)1.2(出)/一百万Token。
 
-他们还有一个科研分组，这个分组多轮测试下来，都是满智商。
+他们还针对专用分组做了容灾与秒级故障转移，实测下来，高峰期大部分站卡的时候，他们家也还稳定的。另外注意到他们还有一个科研分组，这个分组多轮测试下来，都是满智商，追求极致稳定的可以关注下这个分组。
 
-总体来说，性价比比较高。
-
-企业和中转站联系会有专属倍率优惠，10元起充可以小额测试一下试试。
+总体来说，性价比比较高。企业和中转站联系会有专属倍率优惠，10元起充可以小额测试一下试试。
 
 ### [云渡](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fyundu.lol%2Fregister&name=%E4%BA%91%E6%B8%A1&source=git)
 云渡主要提供 GPT、Claude 等主流模型的接入服务，模型和优质渠道更新都比较及时，整体价格也挺有竞争力的。站内设有GPT福利组，其中 GPT-6-Astra 价格¥1.2(进)6.4(出)/一百万Token。GPT Pro系列也有对应的高质量分组，模型推理和代码能力表现都值得关注，适合对模型能力有一定要求、同时又想控制使用成本的开发者。
@@ -63,11 +61,11 @@ Claude分组选择也比较丰富，提供稳定组、微注组和顶级组，�
 客服和售后体验也很流畅，整体体验很好，可以小额充值跑一下真实场景试试。
 
 ### [Modelflare](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Forigin.modelflare.dev%2Fsign-up%3Futm_source%3Dhvoyai%26utm_medium%3Dfree&name=Modelflare&source=git)
-这家站有个特惠活动，单笔充值 US$20 后可解锁 GPT 特惠分组，这个组很便宜，解锁这个组后GPT‑5.6‑Sol 价格大概是¥0.51(进)3.01(出)/一百万Token，问了站点的客服说没有使用上限的限制。
+这个站点由美国 LLC 主体 Havenbyte LLC 运营，支持 GPT、Claude、Gemini、Grok 等主流模型和常用兼容协议；同时还支持多达 40 多种图片及视频模型。API Key 可以配置有序回退，调用记录可查看 Token、延迟、状态和实际成本。缓存补偿也是一个这个站的一个亮点。部分 OpenAI 价格优先、稳定和高级分组提供每日 65%、75%、85% 的缓存命中率保障；符合条件的请求如果未达到目标，平台会补偿差额，结算后可在用量看板查看。
 
-站点由美国 LLC 主体 Havenbyte LLC 运营，支持 GPT、Claude、Gemini、Grok 等主流模型和常用兼容协议；同时还支持多达 40 多种图片及视频模型。API Key 可以配置有序回退，调用记录可查看 Token、延迟、状态和实际成本。缓存补偿也是一个这个站的一个亮点。部分 OpenAI 价格优先、稳定和高级分组提供每日 65%、75%、85% 的缓存命中率保障；符合条件的请求如果未达到目标，平台会补偿差额，结算后可在用量看板查看。
+这家站有个特惠活动，单笔充值 US$50 后可解锁特惠分组，这个特惠组很便宜，opus5.5活动分组是¥0.8(进)4(出)/一百万Token、gpt-6.2-sol是¥0.2(进)1(出)/一百万Token、gpt-6.2-astra是¥0.8(进)4(出)/一百万Token。而且我问了站点的客服说没有token用量上限的限制，累计充值金额到达后可以随便用。
 
-推荐小额先试一下，觉得不错的话再参加他们的充值解锁特惠分组的活动，以降低长期使用的成本。
+推荐小额先试一下，觉得不错的话再参加他们的充值解锁特惠分组的活动，以降低长期使用的成本，很合算哦。
 
 ### [88API Token聚合平台](https://www.hvoyai.com/relaySite?target=https%3A%2F%2F88api.ai%2Fsign-up%3Faff%3DPO46&name=88API%20Token%E8%81%9A%E5%90%88%E5%B9%B3%E5%8F%B0&source=git)
 88API 由在香港依法注册的企业【88 DIGITAL TECHNOLOGY LIMITED】运营。这家的各种模型都很齐全，上新的速度也比较快，代码模型、视频模型覆盖的新老型号和渠道都挺全的，想用这家的应该都可以找到自己需要的型号。
@@ -82,9 +80,9 @@ Claude分组选择也比较丰富，提供稳定组、微注组和顶级组，�
 如果想找一个便宜且稳定性也不错的GPT站，可以试试这家。
 
 ### [ZNB.ai](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fznbcode.com%2Fregister&name=ZNB.ai&source=git)
-这个站接入的模型还挺多的，GPT、Claude、主流国产模型都有，其中GPT和Deepseek的价格挺好的性价比很高，Pro不降智号池分组gpt-6-astra价格是¥2.5(进)12.5(出)/一百万Token；gpt-5.6-sol价格是¥1.25(进)7.5(出)/一百万Token；GPT特惠组基本上是Pro不降智分组的一半价格就可以用上。DeepSeek V4/V4.1 Flash价格也合适，模型更新速度还挺快的。
+这个站接入的模型还挺多的，GPT、Claude、主流国产模型都有，这家特惠分组不限量价格很实惠：Opus5.5是¥0.6(进)3(出)/一百万Token、gpt-6.2-sol是¥0.12(进)0.6(出)/一百万Token、gpt-6.2-astra是¥0.4(进)2.4(出)/一百万Token、DeepSeek V4.1 Flash是¥0.3(进)1.2(出)/一百万Token。也有Plus\Pro\官key等分组，选择还挺多的。模型质量和价格都还不错。
 
-充值方式支持的很灵活，可以小额充值试一下。
+充值方式支持的比较灵活，可以小额充值试一下。
 
 ### [速蹬](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fsudeng.cc%2Fregister&name=%E9%80%9F%E8%B9%AC&source=git)
 这个站支持 OpenAI、Claude等主流模型，提供文本对话、代码生成、图像生成及多模态能力。
