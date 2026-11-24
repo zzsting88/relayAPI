@@ -91,6 +91,12 @@ Top-API支持GPT、Claude、Gemini、Grok 等主流模型，也接入了 GPT Ima
 
 发展很快，用户体量挺大的，可以小额充值试一下。
 
+### [合聚API](https://www.hvoyai.com/relaySite?id=40788&name=%E5%90%88%E8%81%9AAPI&source=git)
+
+合聚API支持GPT、Claude、Gemini等主流模型，按量计费，价格页和运行状态都可以公开查看，支持微信、支付宝充值。
+
+GPT Pro Max分组的gpt-6.2-astra价格是¥1.6(进)8(出)/一百万Token，gpt-6.2-sol是¥0.4(进)2(出)/一百万Token；Claude Max分组的Opus 5.5是¥5.2(进)26(出)/一百万Token。需要集中使用几家主流模型的，可以关注一下。
+
 ### [ZNB.ai](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fznbcode.com%2Fregister&name=ZNB.ai&source=git)
 这个站接入的模型还挺多的，GPT、Claude、主流国产模型都有，这家特惠分组不限量价格很实惠：Opus5.5是¥0.6(进)3(出)/一百万Token、gpt-6.2-sol是¥0.12(进)0.6(出)/一百万Token、gpt-6.2-astra是¥0.4(进)2.4(出)/一百万Token、DeepSeek V4.1 Flash是¥0.3(进)1.2(出)/一百万Token。也有Plus\Pro\官key等分组，选择还挺多的。模型质量和价格都还不错。
 
@@ -126,6 +132,12 @@ Buytoken成立于2025年，是由美国GIMMITK INC为主体来运营的，之前
 
 1比1充值，微信、支付宝、对公转账都支持，号称不满意随时包退，也支持国内开票，做的还蛮完善的，可以小额充值试试。
 
+### [词易](https://www.hvoyai.com/relaySite?id=40001&name=%E8%AF%8D%E6%98%93&source=git)
+
+词易主要做GPT接口和绘图能力聚合，GPT的入门价格比较实惠，默认分组的gpt-6.2-astra是¥0.8(进)4(出)/一百万Token，gpt-6.2-sol是¥0.2(进)1(出)/一百万Token。
+
+Claude也有不同渠道，其中cc-max-代分组的Opus 5.5是¥4.8(进)24(出)/一百万Token。除了日常编程，也能在同一个站里调用图片模型，分组选择比较多。
+
 ### [幻灵AI](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapi.huanling.icu%2Fregister&name=%E5%B9%BB%E7%81%B5AI&source=git)
 这个站现在有个新用户2刀试用福利，说是加他们qq群找群主可以领取，有兴趣的用户可以加他们的群了解一下，由于站点活动变化比较快，具体的活动请以站点为准哈。
 
@@ -138,10 +150,46 @@ Buytoken成立于2025年，是由美国GIMMITK INC为主体来运营的，之前
 
 有这方面需求的用户可以先小额充值试试。
 
+### [灵珑AI](https://www.hvoyai.com/relaySite?id=40851&name=%E7%81%B5%E7%8F%91AI&source=git)
+
+这家主打自建GPT Pro号池，区分了Pro混合、Pro Max专线等分组。Pro混合组的gpt-6.2-astra是¥1.2(进)6(出)/一百万Token，gpt-6.2-sol是¥0.3(进)1.5(出)/一百万Token；Claude Ccmax微注入组的Opus 5.5是¥5.2(进)26(出)/一百万Token。
+
+对号池和线路有要求的，可以把混合组与专线组分别测一下，再决定用哪个。
+
+### [aiaimark](https://www.hvoyai.com/relaySite?id=40605&name=aiaimark&source=git)
+
+aiaimark目前比较侧重OpenAI系列，GPT有活动、特价、稳定和官方等不同通道。节日限时优惠通道的gpt-6.2-astra是¥0.8(进)4(出)/一百万Token，gpt-6.2-sol是¥0.2(进)1(出)/一百万Token；Claude优惠分组的Opus 5.5是¥6(进)30(出)/一百万Token。
+
+活动通道的价格比较好看，不过属于限时优惠，使用前留意一下站内公告和当前价格。
+
+### [sidrune](https://www.hvoyai.com/relaySite?id=40150&name=sidrune&source=git)
+
+sidrune的线路分得比较细，除了GPT、Claude，也支持Grok和一些主流国产模型，按量余额和订阅套餐都有。Claude-Max-cc分组的Opus 5.5是¥4(进)20(出)/一百万Token；GPT-Pro分组的gpt-6.2-astra是¥1.6(进)8(出)/一百万Token，gpt-6.2-sol是¥0.4(进)2(出)/一百万Token。
+
+模型、线路和费用可以在模型广场及工作台里查看，方便经常切换模型的用户管理用量。
+
 ### [悟空API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwkapi.pro%2Fregister&name=%E6%82%9F%E7%A9%BAAPI&source=git)
 支持gpt、claude主流模型，opus5.5-claude-max价格是¥5.2(进)26(出)/一百万Token；分组分的挺细的有kiro、max、企业等分组。
 
 充值的话是1元充站内1刀额度，可以小额充值先测试下再决定要不要长期用。
+
+### [FluxToken](https://www.hvoyai.com/relaySite?id=40761&name=FluxToken&source=git)
+
+FluxToken的Claude有Kiro、Max等渠道，GPT也分了福利、惠享、稳享和尊享等档位，预算不同可以选不同分组。Claude Max稳享组的Opus 5.5是¥4(进)20(出)/一百万Token；Codex Pro尊享组的gpt-6.2-astra是¥1.6(进)8(出)/一百万Token，gpt-6.2-sol是¥0.4(进)2(出)/一百万Token。
+
+同一个模型的分组价格差别不小，选的时候注意看清渠道，不要只看最低报价。
+
+### [云梦](https://www.hvoyai.com/relaySite?id=40736&name=%E4%BA%91%E6%A2%A6&source=git)
+
+云梦的GPT福利组价格比较低，gpt-6.2-astra是¥0.6(进)3(出)/一百万Token，gpt-6.2-sol是¥0.15(进)0.75(出)/一百万Token；Claude Max组的Opus 5.5是¥2.8(进)14(出)/一百万Token。
+
+不过GPT福利组自己也标注了“85%—90%概率不降智”，比较在意模型效果的，建议先拿自己的代码和实际任务测一下，再决定是否长期使用。
+
+### [noonoo](https://www.hvoyai.com/relaySite?id=40459&name=noonoo&source=git)
+
+noonoo偏向开发者的多模型统一接入，提供兼容OpenAI的接口，也有调用日志和费用记录，方便接入现有应用或Agent。默认分组的Opus 5.5约¥2.03(进)10.2(出)/一百万Token，gpt-6.2-astra约¥4.35(进)21.76(出)/一百万Token，gpt-6.2-sol约¥1.09(进)5.44(出)/一百万Token。
+
+这家的GPT报价不算低，可以结合自己主要用的模型来比较成本。
 
 ### [Yomi API](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fconsole.yomiapi.com%2F&name=Yomi%20API&source=git)
 Yomi API主要面向 AI 编程和图片创作用户，支持 GPT、Claude、Gemini、Grok，以及 DeepSeek、GLM、Kimi 等主流模型，可接入 Claude Code、Codex、OpenClaw 等工具。
