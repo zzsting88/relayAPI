@@ -239,11 +239,6 @@ Max满血渠道的 Opus5 价格是 ¥6.5(进)32.5(出)/一百万Token， Fable 5
 
 充值的话支持的支付方式也挺多的，可以前往他们网站看看。
 
-### [天天中转站](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fapitiantian.com%2Fregister&name=%E5%A4%A9%E5%A4%A9%E4%B8%AD%E8%BD%AC%E7%AB%99&source=git)
-这个站专注国产大模型，DeepSeek、GLM、Kimi、HY、MiniMax 等模型都有接入，目前国产模型全场 2 折。一个 Key 就可以在站内使用多个主流国产模型，适合日常 AI 编程、智能体任务和应用开发。
-
-经常使用国产模型、希望降低长期使用成本的用户，可以先小额体验一下这个站。
-
 ### [ccgo](https://www.hvoyai.com/relaySite?target=https%3A%2F%2Fwww.ccgoai.club%2Fhome&name=ccgo&source=git)
 ccgo支持Codex、Claude Code、OpenClaw、Hermes、Cherry Studio 等模型。这家GPT模型支持首字慢速自动补偿，他们页面写的政策是“>10s 减免 20%，>30s 全免”；gpt-6-astra的价格是¥3.5(进)17.5(出)/一百万 Token；gpt-5.6-sol的价格是¥1.75(进)10.5(出)/一百万 Token。价格随官方实时同步，后台可查每一笔扣费明细。
 
@@ -256,9 +251,6 @@ ModCon是2025 年11月成立的一个站点，GPT系列模型做的还不错，�
 目前GPT 6 Astra的价格是1.2元/一百万token，价格在同类站点里还算比较实惠，实际使用时响应速度和输出质量也都不错。
 
 可以先小额充值测试一下，根据自己的实际体验，再决定是否长期使用。
-
-### [CUN.ai](https://www.hvoyai.com/relaySite?id=40325&name=CUN.ai&source=git)
-这个站是今年2026年新上线的一个站点，支持模型种类挺多的。他有按量计费, 也有套餐订阅，之前经常在hvoy的[免费兑换码](https://hvoyai.com/free-tokens/invite-codes)页面投放大额兑换码，由于站点活动会业务运营策略变化，想参加活动的用户请前往活动页面自行筛选和领取哈。
 
 ### [YKH.AI](https://www.hvoyai.com/relaySite?id=39975&name=YKH.AI&source=git)
 我比较喜欢这个站的一点是没有很多营销词，如果你想找一个界面干净、方便快速接入的 AI API 站点可以看看这个。追求性价比的话可以选 lite 分组算下来¥0.25/一百万Token，追求稳定性高的话可以选纯pro号池是 ¥0.5/一百万Token，便宜的和稳定的全都有，可以满足不同用户的需求。
