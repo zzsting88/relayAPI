@@ -259,6 +259,14 @@ ModCon是2025 年11月成立的一个站点，GPT系列模型做的还不错，�
 
 ## 中性
 
+### [TeamoRouter](https://teamorouter.com/zh)
+> 本条由 TeamoRouter 团队成员提交（利益相关，请读者自行判断），欢迎维护者实测后调整位置或删改。
+
+由 Teamo HK Limited 运营，一个 API Key 通过 OpenAI 兼容接口和 Anthropic 原生接口调用 Claude、GPT、Gemini、DeepSeek、Kimi、Qwen、GLM 等模型，Claude Code、Codex、Gemini CLI、Cherry Studio 都有中文接入文档。各模型的官方价、上下文和接入示例在[模型广场](https://teamorouter.com/zh/models)公开，按量计费、没有月费。
+
+付款支持支付宝、微信和银行卡；企业可对公转账，增值税专票和普票在控制台按实际消耗申请。接入示例见 [teamo-lab/ai-api-zhongzhuan](https://github.com/teamo-lab/ai-api-zhongzhuan)。
+
+
 ### [aigocode.com](https://www.hvoyai.com/relaySite?id=39782&name=AlGoCode&source=git)
 aigocode是一个口碑还不错的APIKEY网站, 目前没有发现用低价模型代替高级模型的情况. 我自己用的这段时间稳定性还行. 模型方面只有Claude, GPT和 Gemini，网站支持月卡套餐. 目前最低的套餐是4周399人民币, 也就是100人民币每周, 对应的额度是110元每周. 算是不便宜的. 稳定性偶尔会有波动.
 
