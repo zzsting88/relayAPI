@@ -306,6 +306,15 @@ Claude 只支持Opus4.6, 可以按次也可以按量.
 Gemini3.1 Pro都是按次的, 每次4分钱.
 
 
+### [万钥 Wanyra API](https://api.star1age.cn/)（团队成员提交，待社区实测）
+Star1Age 运营的多模态 AI API 聚合平台，香港直连节点，提供 OpenAI 兼容 `/v1` 端点。
+
+目前上线 83 款模型，覆盖 Claude（Opus 5.5 / Sonnet 5.5 / Fable 5.2）、GPT-6.2、Gemini 4 及 DeepSeek、图像与视频生成模型。
+
+按量计费、无月费订阅、余额不过期，支持支付宝、微信支付与 PayPal；所有模型单价与缓存读写费率均在免登录 JSON 端点（`api.star1age.cn/api/portal/public-api/catalog`）公开，并提供每 15 分钟更新的模型可用性与每日深度验真页面（`api.star1age.cn/status`）。
+
+注：本条目由万钥团队成员提交，仅列出可公开核实的基本信息，欢迎作者与社区按标准实测后调整位置或增删。
+
 ## 不推荐的
 
 ### 闲鱼上的中转站
